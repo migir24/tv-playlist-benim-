@@ -1,4 +1,5 @@
 #EXTM3U
+# Kurdish / Kurdisch
 #EXTINF:-1 group-title="Kurdish / Kurdisch",Medya Haber
 https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
 #EXTINF:-1 group-title="Kurdish / Kurdisch",Stêrk TV
@@ -43,6 +44,14 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://media.streambrothers.com:1936/8226/8226/chunklist.m3u8
 #EXTINF:-1 group-title="Kurdish / Kurdisch",NRT 2
 http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/chunklist_w1757825996.m3u8
+#EXTINF:-1 group-title="Kurdish / Kurdisch",Bask HD (Zusatzkandidat, nicht live geprüft)
+http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish / Kurdisch",Halabja TV (Zusatzkandidat, nicht live geprüft)
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish / Kurdisch",Kurdistan 24 (alternative Quelle, nicht live geprüft)
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+
+# Turkish / Türkçe
 #EXTINF:-1 group-title="Turkey / Türkçe",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkey / Türkçe",TRT 2
@@ -98,6 +107,12 @@ https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1 group-title="Turkey / Türkçe",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 group-title="Turkey / Türkçe",Tivi 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_tivi6/playlist.m3u8
 #EXTINF:-1 group-title="Turkey / Türkçe",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="Turkey / Türkçe",TRT Belgesel (Zusatzkandidat, nicht live geprüft)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Turkey / Türkçe",TRT Çocuk (Zusatzkandidat, nicht live geprüft)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Turkey / Türkçe",TRT Müzik (Zusatzkandidat, nicht live geprüft)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
