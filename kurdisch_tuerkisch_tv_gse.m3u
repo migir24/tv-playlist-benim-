@@ -116,3 +116,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkey / Türkçe",TRT Müzik (Zusatzkandidat, nicht live geprüft)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+# Official fallback: opens beIN SPORTS HABER live page; not a raw HLS stream
+#EXTINF:-1 group-title="Turkey / Türkçe",beIN SPORTS HABER (offizielle Webseite)
+https://www.bein-sports.com.tr/canli-tv
