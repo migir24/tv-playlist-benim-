@@ -1,122 +1,95 @@
 #EXTM3U
-# Vu+ Zero / Enigma2 — kurdisch, türkisch und Sport
-# Hinweis: vorhandene Stream-URLs wurden nicht live auf Abspielbarkeit getestet.
-# Premium-Sportkanäle benötigen offizielle Abos; keine bestätigten frei verfügbaren Direktstreams vorhanden.
-# Nuçe TV offizieller Webplayer (Webseite, kein direkter M3U-Stream): https://nucetv.net/live-tv
-# beIN SPORTS HABER offizieller Webplayer (Webseite, kein direkter M3U-Stream): https://www.bein-sports.com.tr/canli-tv
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Medya Haber
-https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Stêrk TV
-https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_w2100886807_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",JIN TV
-https://live.jintv.org:12443/medialive/jintv.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Med Müzik
-http://137.74.205.201/medmuzik/MedStream/chunklist_w124080570.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Rûdaw
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Kurdistan 24
-https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Kurdmax
-https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w2060950536.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Kurdmax Music
-https://5aa8c7549bfa9.streamlock.net/music/livestream/chunklist_w1491722542.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Kurdsat TV
-https://kurdsat.akamaized.net/hls/kurdsat.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Kurdsat News
-https://kurdsat-news.akamaized.net/hls/stream_0.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Ronahi TV
-https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Zarok TV
-https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Channel 8 Kurdish
-https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Kurdistan TV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Geli Kurdistan TV
-https://live.bradosti.net/live/GaliKurdistan/index.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Komala TV
-https://live.tvkomala.com/live/komala/chunks.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Speda TV
-http://speda.teradek.live:1935/live/spedahd/chunklist.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Waar TV
-http://198.100.158.231:1935/kanal2/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",KNN TV
-http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Zagros TV
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",NRT TV
-https://media.streambrothers.com:1936/8226/8226/chunklist.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",NRT 2
-http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/chunklist_w1757825996.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Bask HD (Zusatzkandidat, nicht live geprüft)
-http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish / Kurdisch",Halabja TV (Zusatzkandidat, nicht live geprüft)
-http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",TRT Türk
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",TRT Avaz
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",A2
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",Kanal D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=
-#EXTINF:-1 group-title="Turkey / Türkçe",Show TV
-https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
-#EXTINF:-1 group-title="Turkey / Türkçe",Star TV
-http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",NOW
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",TV8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",360
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",NTV
-https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-#EXTINF:-1 group-title="Turkey / Türkçe",Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",Habertürk
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",TV100
-https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",Sözcü TV
-https://yt.tecostream.xyz/live/sozcutelevizyonu?m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",Bloomberg HT
-https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",CNBC-E
-https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",TGRT Haber
-https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",İLKE TV
-https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",Ulusal Kanal
-https://internettv.guventechnology.com/hls/ulusaltv/index.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",Bengü Türk
-https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",TV4
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",Tivi 6
-https://live.artidijitalmedya.com/artidijital_tivi6/playlist.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",TRT Belgesel (Zusatzkandidat, nicht live geprüft)
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",TRT Çocuk (Zusatzkandidat, nicht live geprüft)
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Turkey / Türkçe",TRT Müzik (Zusatzkandidat, nicht live geprüft)
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+# Playlist für Vu+ Zero / OpenATV / E2m3u2bouquet
+# Hinweis: direkte Streams sind nur dann enthalten, wenn eine öffentlich bekannte HLS-Adresse vorliegt.
+# Nicht alle Links wurden live getestet. Premiumkanäle benötigen einen autorisierten Zugang.
+# Manche offizielle Websites sind keine direkten Streams und können im Receiver nicht abspielen.
 
-# Türkischer Sport
-# beIN SPORTS 1/2/3/4/5, Smart Spor 1/2, S Sport 1/2 und Tivibu Spor 1/2/3/4
-# wurden bewusst nicht mit erfundenen Stream-URLs eingetragen; nutze dafür die offiziellen Abo-Apps/Anbieter.
+# ===== KURDISCH =====
+#EXTINF:-1 tvg-name="Rudaw TV" group-title="Kurdisch",Rudaw TV (offizielle Live-Seite)
+https://rudaw.net/turkish/live-tv
+#EXTINF:-1 tvg-name="Kurdistan 24" group-title="Kurdisch",Kurdistan 24 (offizielle Live-Seite)
+https://www.kurdistan24.net/tr/live
+#EXTINF:-1 tvg-name="Nûçe TV" group-title="Kurdisch",Nûçe TV (offizielle Website)
+https://nucetv.video/
+#EXTINF:-1 tvg-name="Medya Haber" group-title="Kurdisch",Medya Haber (HLS - nicht live getestet)
+https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
+#EXTINF:-1 tvg-name="Zarok TV" group-title="Kurdisch",Zarok TV (HLS - nicht live getestet)
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Kurdsat TV" group-title="Kurdisch",Kurdsat TV (HLS - nicht live getestet)
+http://198.100.158.231:1935/kanal11/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Kurdsat News" group-title="Kurdisch",Kurdsat News (HLS - nicht live getestet)
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/kurdsat/ls_satlink/b_528.m3u8
+#EXTINF:-1 tvg-name="Ronahi TV" group-title="Kurdisch",Ronahi TV (HLS - nicht live getestet)
+http://198.100.158.231:1935/kanal16/_definst_/livestream/list.m3u8
+#EXTINF:-1 tvg-name="Nalia TV" group-title="Kurdisch",Nalia TV (HLS - nicht live getestet)
+http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/chunklist_w76649285.m3u8
+#EXTINF:-1 tvg-name="KNN" group-title="Kurdisch",KNN (HLS - nicht live getestet)
+http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
+
+# ===== TÜRKISCH =====
+#EXTINF:-1 tvg-name="TRT 1" group-title="Türkisch",TRT 1 (offizielle Website)
+https://www.trt1.com.tr/
+#EXTINF:-1 tvg-name="TRT Haber" group-title="Türkisch",TRT Haber (offizielle Website)
+https://www.trthaber.com/canli-yayin-izle.html
+#EXTINF:-1 tvg-name="TRT Türk" group-title="Türkisch",TRT Türk (offizielle Website)
+https://www.trt.net.tr/
+#EXTINF:-1 tvg-name="ATV" group-title="Türkisch",ATV (offizielle Website)
+https://www.atv.com.tr/canli-yayin
+#EXTINF:-1 tvg-name="Kanal D" group-title="Türkisch",Kanal D (offizielle Website)
+https://www.kanald.com.tr/canli-yayin
+#EXTINF:-1 tvg-name="Show TV" group-title="Türkisch",Show TV (offizielle Website)
+https://www.showtv.com.tr/canli-yayin
+#EXTINF:-1 tvg-name="NTV" group-title="Türkisch",NTV (offizielle Website)
+https://www.ntv.com.tr/canli-yayin
+#EXTINF:-1 tvg-name="TV100" group-title="Türkisch",TV100 (HLS - nicht live getestet)
+https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
+
+# ===== TÜRKISCHER SPORT =====
+# Premiumkanäle: offizielle Anbieter-Links statt nicht autorisierter Direktstreams.
+# Diese Webadressen sind keine bestätigten Enigma2-kompatiblen Livestreams.
+#EXTINF:-1 tvg-name="beIN SPORTS 1" group-title="Türkischer Sport",beIN SPORTS 1 (Abo erforderlich)
+https://www.bein-sports.com.tr/
+#EXTINF:-1 tvg-name="beIN SPORTS 2" group-title="Türkischer Sport",beIN SPORTS 2 (Abo erforderlich)
+https://www.bein-sports.com.tr/
+#EXTINF:-1 tvg-name="beIN SPORTS 3" group-title="Türkischer Sport",beIN SPORTS 3 (Abo erforderlich)
+https://www.bein-sports.com.tr/
+#EXTINF:-1 tvg-name="beIN SPORTS 4" group-title="Türkischer Sport",beIN SPORTS 4 (Abo erforderlich)
+https://www.bein-sports.com.tr/
+#EXTINF:-1 tvg-name="beIN SPORTS 5" group-title="Türkischer Sport",beIN SPORTS 5 (Abo erforderlich)
+https://www.bein-sports.com.tr/
+#EXTINF:-1 tvg-name="beIN SPORTS MAX 1" group-title="Türkischer Sport",beIN SPORTS MAX 1 (Abo erforderlich)
+https://www.bein-sports.com.tr/
+#EXTINF:-1 tvg-name="beIN SPORTS MAX 2" group-title="Türkischer Sport",beIN SPORTS MAX 2 (Abo erforderlich)
+https://www.bein-sports.com.tr/
+#EXTINF:-1 tvg-name="Smart Spor 1" group-title="Türkischer Sport",Smart Spor 1 (D-Smart Abo)
+https://www.dsmart.com.tr/
+#EXTINF:-1 tvg-name="Smart Spor 2" group-title="Türkischer Sport",Smart Spor 2 (D-Smart Abo)
+https://www.dsmart.com.tr/
+#EXTINF:-1 tvg-name="S Sport 1" group-title="Türkischer Sport",S Sport 1 (Abo erforderlich)
+https://ssport.tv/
+#EXTINF:-1 tvg-name="S Sport 2" group-title="Türkischer Sport",S Sport 2 (Abo erforderlich)
+https://ssport.tv/
+#EXTINF:-1 tvg-name="Tivibu Spor 1" group-title="Türkischer Sport",Tivibu Spor 1 (Abo erforderlich)
+https://www.tivibu.com.tr/canli-tv/spor
+#EXTINF:-1 tvg-name="Tivibu Spor 2" group-title="Türkischer Sport",Tivibu Spor 2 (Abo erforderlich)
+https://www.tivibu.com.tr/canli-tv/spor
+#EXTINF:-1 tvg-name="Tivibu Spor 3" group-title="Türkischer Sport",Tivibu Spor 3 (Abo erforderlich)
+https://www.tivibu.com.tr/canli-tv/spor
+#EXTINF:-1 tvg-name="Tivibu Spor 4" group-title="Türkischer Sport",Tivibu Spor 4 (Abo erforderlich)
+https://www.tivibu.com.tr/canli-tv/spor
+#EXTINF:-1 tvg-name="beIN SPORTS HABER" group-title="Türkischer Sport",beIN SPORTS HABER (offizielle Live-Seite)
+https://www.bein-sports.com.tr/canli-tv
+#EXTINF:-1 tvg-name="TRT Spor" group-title="Türkischer Sport",TRT Spor (offizielle Website)
+https://www.trtspor.com.tr/
+#EXTINF:-1 tvg-name="TRT Spor Yıldız" group-title="Türkischer Sport",TRT Spor Yıldız (offizielle Website)
+https://www.trtspor.com.tr/
+#EXTINF:-1 tvg-name="A Spor" group-title="Türkischer Sport",A Spor (offizielle Live-Seite)
+https://www.aspor.com.tr/webtv/canli-yayin
+#EXTINF:-1 tvg-name="HT Spor" group-title="Türkischer Sport",HT Spor (offizielle Live-Seite)
+https://htspor.com.tr/canli-yayin
+#EXTINF:-1 tvg-name="FB TV" group-title="Türkischer Sport",FB TV (offizielle Website)
+https://www.fbtv.com.tr/
+#EXTINF:-1 tvg-name="Eurosport 1" group-title="Sport",Eurosport 1 (offizielle Website)
+https://www.eurosport.com/
+#EXTINF:-1 tvg-name="Eurosport 2" group-title="Sport",Eurosport 2 (offizielle Website)
+https://www.eurosport.com/
