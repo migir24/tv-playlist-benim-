@@ -82,3 +82,198 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2128000_sltur.m3u8
 
 #EXTINF:-1 group-title="Türkisch" tvg-name="GZT TV",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+# Zusätzliche öffentliche Stream-Kandidaten; Verfügbarkeit nicht live geprüft
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Kurdistan TV",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Zagros TV",Zagros TV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Kurdsat TV",Kurdsat TV
+https://iko-live.akamaized.net/KurdsatTV/master.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="NRT News",NRT News
+https://media.streambrothers.com:1936/8226/8226/chunklist.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="NRT 2",NRT 2
+http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/chunklist_w1757825996.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Payam TV",Payam TV
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Afarin TV",Afarin TV
+https://65f16f0fdfc51.streamlock.net:443/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Kirkuk Satellite TV",Kirkuk Satellite TV
+https://live.kirkuklive.live/hls/stream/index.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="KNN TV",KNN TV
+http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Speda TV",Speda TV
+http://kurd-live.com:1935/live/speda/playlist.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Newroz TV",Newroz TV
+http://198.100.158.231:1935/kanal3/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Bask HD",Bask HD
+http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Halabja TV",Halabja TV
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Haber",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Avaz",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Müzik",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT 1",TRT 1
+https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Çocuk",TRT Çocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Belgesel",TRT Belgesel
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="24 TV",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="NTV",NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Haber Global",Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TGRT Haber",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Ekotürk",Ekotürk
+https://cdn.ekoturk.net/hls/master.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Tele 1",Tele 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TJK TV",TJK TV
+https://tjktv-live.tjk.org/tjktv.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Diyar TV",Diyar TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Dost TV",Dost TV
+https://dost.stream.emsal.im/tv/live.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="HT Spor",HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Meltem TV",Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TürkHaber TV",TürkHaber TV
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TV1",TV1
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+
+# ===== Deutsche Sender (öffentliche Stream-Adressen; nicht einzeln live getestet) =====
+#EXTINF:-1 group-title="Deutsch" tvg-name="Das Erste",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="ZDF",ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="3sat",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="ARD alpha",ARD alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="ARTE Deutsch",ARTE Deutsch
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="KiKA",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="ONE",ONE
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Phoenix",Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Tagesschau24",Tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="ZDFinfo",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="ZDFneo",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="BR Fernsehen Nord",BR Fernsehen Nord
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="BR Fernsehen Süd",BR Fernsehen Süd
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="hr-fernsehen",hr-fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="MDR Sachsen",MDR Sachsen
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="MDR Sachsen-Anhalt",MDR Sachsen-Anhalt
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="MDR Thüringen",MDR Thüringen
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="NDR Hamburg",NDR Hamburg
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="NDR Niedersachsen",NDR Niedersachsen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Radio Bremen TV",Radio Bremen TV
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="rbb Berlin",rbb Berlin
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="SWR Baden-Württemberg",SWR Baden-Württemberg
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="SWR Rheinland-Pfalz",SWR Rheinland-Pfalz
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="WDR",WDR
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Welt",Welt
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Deluxe Music",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Deluxe Dance",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Schlager Deluxe",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
+# ===== Weitere türkische, kurdische und deutsche Stream-Kandidaten =====
+# Hinweis: Streams nicht live getestet; gleiche Streams/alternative Namen können vorkommen.
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Spor",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TVNET",TVNET
+https://tvnet-live.ercdn.net/tvnet/tvnet.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="A Haber",A Haber
+https://trkvz-live.ercdn.net/ahaber/ahaber.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="A Spor",A Spor
+https://trkvz-live.ercdn.net/aspor/aspor.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Beyaz TV",Beyaz TV
+https://beyaztv-live.ercdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Kanal 26",Kanal 26
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Kanal 3",Kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Kanal B",Kanal B
+https://kanalb.kanalb.com.tr/live/kanalb.m3u8
+
+#EXTINF:-1 group-title="Deutsch" tvg-name="ARD Das Erste HD",ARD Das Erste HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
+#EXTINF:-1 group-title="Deutsch" tvg-name="ZDF HD",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+
+#EXTINF:-1 group-title="Deutsch" tvg-name="SR Fernsehen",SR Fernsehen
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+
+# ZUSAETZLICHE OEFFENTLICHE SENDERLISTEN – in GSE IPTV als eigene M3U-Playlist hinzufuegen
+# Kurdisch: https://iptv-org.github.io/iptv/languages/kur.m3u
+# Tuerkisch: https://iptv-org.github.io/iptv/languages/tur.m3u
+# Deutsch: https://iptv-org.github.io/iptv/languages/deu.m3u
