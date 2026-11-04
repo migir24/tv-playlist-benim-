@@ -1,6 +1,4 @@
 #EXTM3U
-# YENI – kurdische und türkische direkte HLS-Stream-Kandidaten
-# Live-Erreichbarkeit kann sich ändern; nicht direkt in GSE live getestet.
 
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Rudaw TV",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
@@ -52,6 +50,7 @@ https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Gali Kurdistan TV",Gali Kurdistan TV
 https://live.host247.net/gk/gksat/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Türkisch" tvg-name="TRT Türk",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
@@ -180,7 +179,7 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="TV1",TV1
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 
-# ===== Deutsche Sender (öffentliche Stream-Adressen; nicht einzeln live getestet) =====
+
 #EXTINF:-1 group-title="Deutsch" tvg-name="Das Erste",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 group-title="Deutsch" tvg-name="ZDF",ZDF
@@ -273,7 +272,7 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 group-title="Deutsch" tvg-name="SR Fernsehen",SR Fernsehen
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 
-# ZUSAETZLICHE OEFFENTLICHE SENDERLISTEN – in GSE IPTV als eigene M3U-Playlist hinzufuegen
+
 # Kurdisch: https://iptv-org.github.io/iptv/languages/kur.m3u
 # Tuerkisch: https://iptv-org.github.io/iptv/languages/tur.m3u
 # Deutsch: https://iptv-org.github.io/iptv/languages/deu.m3u
