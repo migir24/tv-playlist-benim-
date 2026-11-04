@@ -276,3 +276,22 @@ https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 # Kurdisch: https://iptv-org.github.io/iptv/languages/kur.m3u
 # Tuerkisch: https://iptv-org.github.io/iptv/languages/tur.m3u
 # Deutsch: https://iptv-org.github.io/iptv/languages/deu.m3u
+
+# =========================================================
+# WEITERE KURDISCHE SENDER – ALLE SPRACHVARIANTEN UNTER „KURDISCH“
+# Die folgenden Adressen sind öffentliche M3U-Playlist-Quellen.
+# Sie sind keine einzelnen Senderstreams und müssen im IPTV-Player
+# als zusätzliche Playlist importiert werden.
+# Allgemeine kurdische Playlist:
+# https://iptv-org.github.io/iptv/languages/kur.m3u
+# Sorani / Zentralkurdisch:
+# https://iptv-org.github.io/iptv/languages/ckb.m3u
+# Kurmandschi / Nordkurdisch:
+# https://iptv-org.github.io/iptv/languages/kmr.m3u
+# Zazaki / Dimli:
+# https://iptv-org.github.io/iptv/languages/zza.m3u
+# Südkurdisch:
+# https://iptv-org.github.io/iptv/languages/sdh.m3u
+# =========================================================
+# TÜRKISCHE ÖFFENTLICHE PLAYLIST-QUELLE:
+# https://iptv-org.github.io/iptv/languages/tur.m3u
