@@ -677,58 +677,78 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3
 #EXTINF:-1 group-title="Deutsch" tvg-name="Kanal 12 Spremberg",Kanal 12 Spremberg
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 
-# ===== NEU ERGAENZT 06.11.2026 - oeffentliche Stream-Kandidaten =====
-# Hinweis: Diese Adressen stammen aus oeffentlichen Sender-/Playlist-Quellen.
-# Sie wurden nicht alle auf deinem Vu+ Zero abgespielt; Verfuegbarkeit kann wechseln.
+# ===== BEREINIGTE STREAM-KANDIDATEN 06.11.2026 =====
+# Oeffentliche Playlist-Quellen; nicht alle Streams sind auf dem Vu+ getestet.
 #EXTINF:-1 group-title="Türkisch" tvg-name="NOW TV",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="Kanal D",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 group-title="Türkisch" tvg-name="Show TV",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 #EXTINF:-1 group-title="Türkisch" tvg-name="Star TV",Star TV
-https://dogus-live.daioncdn.net/startv/playlist.m3u8
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
+#EXTINF:-1 group-title="Türkisch" tvg-name="ATV",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="Kanal 7",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="Teve2",Teve2
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="TV8",TV8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 group-title="Türkisch" tvg-name="TV8,5",TV8,5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 group-title="Türkisch" tvg-name="TV360",TV360
-#EXTINF:-1 group-title="Türkisch" tvg-name="TV4",TV4
+#EXTINF:-1 group-title="Türkisch" tvg-name="Beyaz TV",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TGRT Haber",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Bloomberg HT",Bloomberg HT
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
-https://tv.ensonhaber.com/cnbce/cnbce.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Dream Türk 2",Dream Türk 2
+#EXTINF:-1 group-title="Türkisch" tvg-name="CNBC-e",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="TRT 2",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Kürdi 2",TRT Kürdi 2
-#EXTINF:-1 group-title="Türkisch" tvg-name="TRT World 2",TRT World 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Spor 2",TRT Spor 2
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-# ===== Weitere kurdische Sender / alternative oeffentliche Quellen =====
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Kurdistan TV 2",Kurdistan TV 2
+#EXTINF:-1 group-title="Türkisch" tvg-name="TV360",TV360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TV4",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="NTV",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+#EXTINF:-1 group-title="Türkisch" tvg-name="Halk TV",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="A Haber",A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="A Spor",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="24 TV",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Ekotürk",Ekotürk
+https://cdn.ekoturk.net/hls/master.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="HT Spor",HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT 1 official",TRT 1 official
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Haber official",TRT Haber official
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Türk official",TRT Türk official
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Avaz official",TRT Avaz official
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Kurdî official",TRT Kurdî official
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Zagros TV 2",Zagros TV 2
 http://198.100.158.231:1935/kanal10/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Kurdsat TV 2",Kurdsat TV 2
 http://198.100.158.231:1935/kanal11/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Kurdsat News 2",Kurdsat News 2
-#EXTINF:-1 group-title="Kurdisch" tvg-name="NRT 2 Alternative",NRT 2 Alternative
-#EXTINF:-1 group-title="Kurdisch" tvg-name="KNN TV 2",KNN TV 2
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Speda TV 2",Speda TV 2
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Cira TV",Cira TV
 http://62.210.100.139:1935/ciratv/smil:cira.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Newroz TV 2",Newroz TV 2
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Kanal 4 Kurdistan",Kanal 4 Kurdistan
-http://198.100.158.231:1935/kanal12/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="GEM Kurd",GEM Kurd
 http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Rega TV",Rega TV
 http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Med Muzik TV 2",Med Muzik TV 2
 http://54.36.110.140/live3/live3.m3u8
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Welat TV 2",Welat TV 2
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Afarin TV 2",Afarin TV 2
+
+# NÛÇE TV: Offizielle Live-Seite https://nucetv.net/live-tv
+# Der Player wird per iframe geladen; die Seite veroeffentlicht hier keine direkte M3U8-Adresse. Kein nicht verifizierter Link eingetragen.
