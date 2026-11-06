@@ -90,10 +90,26 @@ https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 https://server5.ikomg.com/hls/kurd.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Nuce TV",Nuce TV
 https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="4Kurd",4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Afarin Baxcha",Afarin Baxcha
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Kurdmax Music HD",Kurdmax Music HD
+https://6476e46b58f91.streamlock.net/liveTrans/MUSIC/chunklist.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Channel 8 Kurdish HD",Channel 8 Kurdish HD
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Gali Kurdistan HD",Gali Kurdistan HD
+https://live.host247.net/gk/gksat/chunklist_w1377661411.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Payam News",Payam News
+https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Zarok TV Kirmanckî",Zarok TV Kirmanckî
+https://zindikirmancki.zaroktv.com.tr/hls/stream.m3u8
 
 # ==========================================
 # TÜRKISCH (Turkish / Türkçe)
 # ==========================================
+#EXTINF:-1 group-title="Türkisch" tvg-name="Koza TV",Koza TV
+https://stream.kozatv.com.tr/live/kozatv.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="TRT Türk",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="TRT World",TRT World
@@ -190,6 +206,32 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="TV 4",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="PowerTürk TV",PowerTürk TV
+https://powerturk.daioncdn.net/powerturk/powerturk_720p.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Number 1 TV",Number 1 TV
+https://n1tr.daioncdn.net/n1tr/n1tr_720p.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Kanal 7",Kanal 7
+https://kanal7-live.ercdn.net/kanal7/kanal7_720p.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Ülke TV",Ülke TV
+https://ulketv-live.ercdn.net/ulketv/ulketv_720p.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Number 1 Türk TV",Number 1 Türk TV
+https://n1turk.daioncdn.net/n1turk/n1turk_720p.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Spor Yıldız",TRT Spor Yıldız
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Müzik HD",TRT Müzik HD
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="A Para",A Para
+https://trkvz-live.ercdn.net/apara/apara.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="BBN Haber",BBN Haber
+https://edge1.socialsmart.tv/bbnhaber/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Çocuk HD",TRT Çocuk HD
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Belgesel HD",TRT Belgesel HD
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Minika Çocuk",Minika Çocuk
+https://trkvz-live.ercdn.net/minikacocuk/minikacocuk.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Minika GO",Minika GO
+https://trkvz-live.ercdn.net/minikago/minikago.m3u8
 
 # ==========================================
 # DEUTSCH (German / Deutsch)
@@ -244,4 +286,34 @@ https://s6.hopslan.com/dokuX/index.m3u8
 https://s6.hopslan.com/tlcX/index.m3u8
 #EXTINF:-1 group-title="Deutsch" tvg-name="Juwelo",Juwelo
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="N24 Doku",N24 Doku
+https://w-live2weltcms.akamaized.net/hls/live/2041021/N24Doku-LivePGM/index.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Comedy Central Deutschland",Comedy Central Deutschland
+https://mtve-live.akamaized.net/hls/live/2032488/cc_de_desktop/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Nick Deutschland",Nick Deutschland
+https://mtve-live.akamaized.net/hls/live/2032489/nick_de_desktop/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Red Bull TV",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/591232/FL01/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Eurosport 1 (DACH Free)",Eurosport 1 (DACH Free)
+https://d245h021lyffg2.cloudfront.net/out/v1/fa9a930d6632490ab8df8e59007e9970/index.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="MTV Germany HD",MTV Germany HD
+https://ma.anixa.tv/clips/stream/mtv/index.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Deluxe Rock",Deluxe Rock
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64732/64732_264_live.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Deluxe Flashback",Deluxe Flashback
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64734/64734_264_live.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="n-tv HD",n-tv HD
+https://ntvlive-lh.akamaihd.net/i/ntvlive_1@124806/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="KiKA HD",KiKA HD
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="ZDFinfo HD",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="ARTE HD",ARTE HD
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Kabel Eins Doku HD",Kabel Eins Doku HD
+https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Dokusat HD",Dokusat HD
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Spiegel TV Konflikte",Spiegel TV Konflikte
+https://spiegeltv-konflikte-1-de.samsung.wurl.tv/playlist.m3u8
 
