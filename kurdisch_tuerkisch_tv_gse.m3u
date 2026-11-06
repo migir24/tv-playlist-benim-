@@ -51,6 +51,8 @@ https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Gali Kurdistan TV",Gali Kurdistan TV
 https://live.host247.net/gk/gksat/playlist.m3u8
 
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Nuce TV",Nuce TV
+https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
 
 #EXTINF:-1 group-title="Türkisch" tvg-name="TRT Türk",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
