@@ -44,7 +44,7 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Payam TV",Payam TV
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Afarin TV",Afarin TV
-https://65f16f0fdfc51.streamlock.net:443/afarinTV/livestream/playlist.m3u8
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Kirkuk Satellite TV",Kirkuk Satellite TV
 https://live.kirkuklive.live/hls/stream/index.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Bask HD",Bask HD
@@ -441,3 +441,60 @@ http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 group-title="YEDEK LISTE - DEUTSCH" tvg-name="ZDFinfo - Alternative High",ZDFinfo - Alternative High
 http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Sterk TV",Sterk TV
+https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Stêrk TV HD",Stêrk TV HD
+https://live.sterktv.net/hls/sterktv.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT 1",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Kanal D Türk",Kanal D Türk
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="ProSieben",ProSieben
+https://s6.hopslan.com/pro7X/index.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Sat.1",Sat.1
+https://s6.hopslan.com/sat1X/index.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="RTL",RTL
+https://dash4.antik.sk/live/test_rtl_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="VOX",VOX
+https://dash4.antik.sk/live/test_rtl_vox_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Rudaw Radio TV",Rudaw Radio TV
+https://hlspackager.akamaized.net/live/DB/RUDAW_RADIO/HLS/RUDAW_RADIO.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="NRT TV",NRT TV
+https://nrt.live.media.gcorelabs.com/nrt/index.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Power Türk",Power Türk
+https://powerturk.daioncdn.net/powerturk/powerturk.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TMB TV",TMB TV
+https://net.tmbtv.com.tr/hls/tmbtv.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="RTL II",RTL II
+https://dash4.antik.sk/live/test_rtl2_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Super RTL",Super RTL
+https://dash4.antik.sk/live/test_superrtl_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Kurdmax HD (Alternative)",Kurdmax HD (Alternative)
+https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/playlist.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Ronahi TV (Alternative)",Ronahi TV (Alternative)
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="NTV (Alternative)",NTV (Alternative)
+https://dogus.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Kanal 7 (Alternative)",Kanal 7 (Alternative)
+https://kanal7-live.daioncdn.net/kanal7/playlist.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Das Erste HD (Alternative)",Das Erste HD (Alternative)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/index.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="ZDF HD (Alternative)",ZDF HD (Alternative)
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/index.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Koza TV",Koza TV
+http://176.65.153.35:6003/play/a019/index.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Koza TV (Alternative)",Koza TV (Alternative)
+http://kozatv.garantisistem.com:1935/kozatv/kozatv2/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Habertürk",Habertürk
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Tele 1",Tele 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Minika Çocuk",Minika Çocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Minika Go",Minika Go
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 group-title="Kurdisch" tvg-name="NRT News",NRT News
+https://nrt.live.media.gcorelabs.com/nrtnews/index.m3u8
+#EXTINF:-1 group-title="Deutsch" tvg-name="Euronews German",Euronews German
+https://euronews-euronews-german-1-de.samsung.wurl.tv/playlist.m3u8
+
