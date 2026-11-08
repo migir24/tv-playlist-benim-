@@ -141,6 +141,68 @@ https://live.artidijitalmedya.com/artidijital_olaytv/olaytv/playlist.m3u8
 https://edge1.socialsmart.tv/ronitv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="Mardin TV",Mardin TV
 https://live.artidijitalmedya.com/artidijital_mardintv/mardintv/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Avaz",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="360 TV",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="A2 TV",A2 TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="AS TV",AS TV
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Aksu TV",Aksu TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Alanya Posta TV",Alanya Posta TV
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Anadolu Net TV",Anadolu Net TV
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="DHA",DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Diyanet TV",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Edessa TV",Edessa TV
+https://canli.edessatv.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="ERTV",ERTV
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="ES TV",ES TV
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="ETV Kayseri",ETV Kayseri
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Finans Türk TV",Finans Türk TV
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Haber 61",Haber 61
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="4U TV",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Afroturk TV",Afroturk TV
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Erzurum Web TV",Erzurum Web TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Sat7 Türk",Sat7 Türk
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Sercem TV",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TV 41",TV 41
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TV 52",TV 52
+https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Vav TV",Vav TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Al-Zahra TV Türkçe",Al-Zahra TV Türkçe
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Altas TV",Altas TV
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="ARAS TV",ARAS TV
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="ATV Alanya",ATV Alanya
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Fortuna TV",Fortuna TV
+https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Güneydoğu TV",Güneydoğu TV
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="TV 4",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 group-title="Türkisch" tvg-name="Urfa Natik TV",Urfa Natik TV
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 group-title="Nachrichten" tvg-name="TRT Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Nachrichten" tvg-name="NTV",NTV
