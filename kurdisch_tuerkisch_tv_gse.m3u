@@ -386,37 +386,4 @@ https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 #EXTINF:-1 group-title="Deutsch" tvg-name="HSE24 Trend",HSE24 Trend
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTINF:-1 group-title="Deutsch" tvg-name="Juwelo",Juwelo
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
-#EXTINF:-1 group-title="Deutsch" tvg-name="Kanal 12 Spremberg",Kanal 12 Spremberg
-https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
-#EXTINF:-1 group-title="Deutsch" tvg-name="rbb Brandenburg",rbb Brandenburg
-https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Kurdisch" tvg-name="Medya Haber - Alternative",Medya Haber - Alternative
-https://602ccc850c9bb.streamlock.net/Medya/smil:1280.smil/chunklist_w130320619_b2660000_sleng.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Kurdisch" tvg-name="Sterk TV - Alternative",Sterk TV - Alternative
-https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_w2100886807_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Kurdisch" tvg-name="Rudaw TV - Alternative",Rudaw TV - Alternative
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Kurdisch" tvg-name="Kurdistan 24 - Alternative",Kurdistan 24 - Alternative
-http://198.100.158.231:1935/kanal30/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Kurdisch" tvg-name="Waar TV - Alternative",Waar TV - Alternative
-http://198.100.158.231:1935/kanal2/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Kurdisch" tvg-name="Ronahi TV - Alternative",Ronahi TV - Alternative
-http://198.100.158.231:1935/kanal16/_definst_/livestream/list.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Kurdisch" tvg-name="JIN TV - Alternative",JIN TV - Alternative
-https://live.jintv.org:12443/medialive/jintv.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Türkisch" tvg-name="Show TV - Alternative",Show TV - Alternative
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Türkisch" tvg-name="TRT 1 - Alternative",TRT 1 - Alternative
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Türkisch" tvg-name="Kanal D - Alternative",Kanal D - Alternative
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Türkisch" tvg-name="Star TV - Alternative",Star TV - Alternative
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Türkisch" tvg-name="TV8 - Alternative",TV8 - Alternative
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Musik" tvg-name="Med Muzik - Alternative 1",Med Muzik - Alternative 1
-http://54.36.110.140/live3/live3.m3u8
-#EXTINF:-1 group-title="Yedek Liste - Musik" tvg-name="Med Muzik - Alternative 2",Med Muzik - Alternative 2
-https://602ccc850c9bb.streamlock.net/Medya/smil:1280.smil/chunklist_w130320619_b2660000_sleng.m3u8
 
