@@ -754,3 +754,196 @@ http://54.36.110.140/live3/live3.m3u8
 
 # NÛÇE TV: Offizielle Live-Seite https://nucetv.net/live-tv
 # Der Player wird per iframe geladen; die Seite veroeffentlicht hier keine direkte M3U8-Adresse. Kein nicht verifizierter Link eingetragen.
+
+#
+# ===== Ergänzungen vom 08.11.2026 =====
+# Hinweis: Neue Kandidaten/Alternativ-URLs aus öffentlich auffindbaren Listen.
+# Nicht alle Streams konnten hier direkt im Receiver getestet werden.
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="VIN TV (Alternative)",VIN TV (Alternative)
+http://95.170.203.140:1213/hls/vinlive.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Kanal 4 Kurdish (Alternative)",Kanal 4 Kurdish (Alternative)
+http://198.100.158.231:1935/kanal12/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Komala TV (Alternative)",Komala TV (Alternative)
+http://198.100.158.231:1935/kanal8/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kurdisch" tvg-name="Azadi TV (Alternative)",Azadi TV (Alternative)
+http://38.99.146.181:7777/AzadiTV.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Star TV (Alternative)",Star TV (Alternative)
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Teve2",Teve2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TV8 (Alternative)",TV8 (Alternative)
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TV100",TV100
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TV264",TV264
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="TYT Türk",TYT Türk
+https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Urfa Natik TV",Urfa Natik TV
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Kanal D (Alternative)",Kanal D (Alternative)
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="Show TV (Alternative)",Show TV (Alternative)
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="ATV (Alternative)",ATV (Alternative)
+https://turkuvaz-live.daioncdn.net/atv/atv.m3u8
+
+#EXTINF:-1 group-title="Deutsch" tvg-name="rbb Brandenburg",rbb Brandenburg
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+
+# ===== YEDEK LISTE - ALTERNATIVE STREAM-ADRESSEN =====
+# Neue Gruppen im Receiver: YEDEK LISTE - KURDISCH / TÜRKISCH / DEUTSCH
+# Hinweis: Öffentliche Listen-Kandidaten; nicht alle Streams sind live getestet.
+
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="Medya Haber - Alternative 2",Medya Haber - Alternative 2
+https://602ccc850c9bb.streamlock.net/Medya/smil:1280.smil/chunklist_w130320619_b2660000_sleng.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="Sterk TV - Alternative 2",Sterk TV - Alternative 2
+https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_w2100886807_b5160000_sleng.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="JIN TV - Alternative 2",JIN TV - Alternative 2
+https://live.jintv.org:12443/medialive/jintv.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="Rudaw TV - Alternative 2",Rudaw TV - Alternative 2
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="Kurdistan 24 - Alternative 2",Kurdistan 24 - Alternative 2
+http://198.100.158.231:1935/kanal30/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="Waar TV - Alternative 2",Waar TV - Alternative 2
+http://198.100.158.231:1935/kanal2/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="Ronahi TV - Alternative 2",Ronahi TV - Alternative 2
+http://198.100.158.231:1935/kanal16/_definst_/livestream/list.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Show TV - Alternative 2",Show TV - Alternative 2
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TRT 1 - Alternative 2",TRT 1 - Alternative 2
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Kanal D - Alternative 2",Kanal D - Alternative 2
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Star TV - Alternative 2",Star TV - Alternative 2
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TV8 - Alternative 2",TV8 - Alternative 2
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="360 TV - Alternative 2",360 TV - Alternative 2
+https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Bloomberg HT - Alternative 2",Bloomberg HT - Alternative 2
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TRT Haber - Alternative 2",TRT Haber - Alternative 2
+https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Kanal 7 - Alternative 2",Kanal 7 - Alternative 2
+https://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="A2 TV - Alternative 2",A2 TV - Alternative 2
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Beyaz TV - Alternative 2",Beyaz TV - Alternative 2
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Ülke TV - Alternative 2",Ülke TV - Alternative 2
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="NTV - Alternative 2",NTV - Alternative 2
+https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="CNN Türk - Alternative 2",CNN Türk - Alternative 2
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Habertürk - Alternative 2",Habertürk - Alternative 2
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TGRT Haber - Alternative 2",TGRT Haber - Alternative 2
+https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Ekotürk - Alternative 2",Ekotürk - Alternative 2
+https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Haber Global - Alternative 2",Haber Global - Alternative 2
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Teve2 - Alternative 2",Teve2 - Alternative 2
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TRT Avaz - Alternative 2",TRT Avaz - Alternative 2
+https://tv-trtavaz.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TRT Kurdî - Alternative 2",TRT Kurdî - Alternative 2
+https://tv-trtkurdi.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TRT 2 - Alternative 2",TRT 2 - Alternative 2
+https://tv-trt2-ts.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="A Spor - Alternative 2",A Spor - Alternative 2
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TJK TV - Alternative 2",TJK TV - Alternative 2
+https://mn-nl.mncdn.com/blutv_tjktv/smil:tjktv_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Power Türk - Alternative",Power Türk - Alternative
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Number One Türk - Alternative",Number One Türk - Alternative
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Euro D - Alternative",Euro D - Alternative
+https://mn-nl.mncdn.com/blutv_eurod/eurod_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Euro Star - Alternative",Euro Star - Alternative
+https://xrklj56s.rocketcdn.com/eurostar.smil/chunklist.sltur.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Kral TV - Alternative",Kral TV - Alternative
+http://mid5dg6m.rocketcdn.com/kraltv.smil/chunklist.sltur.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Kral Pop - Alternative",Kral Pop - Alternative
+http://bqgsd19q.rocketcdn.com/kralpop.smil/chunklist.sltur.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="DMAX Türkiye",DMAX Türkiye
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Diyanet TV - Alternative",Diyanet TV - Alternative
+https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Kanal B - Alternative",Kanal B - Alternative
+https://mn-nl.mncdn.com/blutv_kanalb/smil:kanalb_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Vuslat TV",Vuslat TV
+https://mn-nl.mncdn.com/blutv_vuslattv/smil:vuslattv_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Er TV",Er TV
+https://mn-nl.mncdn.com/blutv_ertv/smil:ertv_sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Number One HD",Number One HD
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - DEUTSCH" tvg-name="ZDF - Alternative High",ZDF - Alternative High
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - DEUTSCH" tvg-name="ZDFneo - Alternative High",ZDFneo - Alternative High
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+
+#EXTINF:-1 group-title="YEDEK LISTE - DEUTSCH" tvg-name="ZDFinfo - Alternative High",ZDFinfo - Alternative High
+http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+
