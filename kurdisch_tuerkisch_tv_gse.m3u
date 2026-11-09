@@ -1,546 +1,546 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-tr.xml,https://iptv-epg.org/files/epg-de.xml"
-#EXTINF:-1 tvg-id="TRT1"  tvg-name="TRT1" group-title="Türkisch",TRT1
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1"  group-title="ULUSAL",TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT 4K.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuf0VbbCYUyd_hUcaxw_iOtp84-aGKdfkvog&s" tvg-name="TRT 4K" group-title="Türkisch",TRT 4K
+#EXTINF:-1 tvg-id="TRT 4K.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuf0VbbCYUyd_hUcaxw_iOtp84-aGKdfkvog&s" group-title="ULUSAL",TRT 4K
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
-#EXTINF:-1 tvg-id="NOW TV"  tvg-name="NOW TV" group-title="Türkisch",NOW TV
+#EXTINF:-1 tvg-id="NOW TV"  group-title="ULUSAL",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 Yedek="https://x.canlitvapp.com/kanal8/index.m3u8" Yedek2="https://trn03.tulix.tv/gt-tv8-tv/tracks-v1a1/mono.m3u8" Yedek3="http://89.187.191.41/TV8-HD-TR/video.m3u8" Yedek4="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1633" Yedek5="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8" Yedek6="https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/profile_0/chunklist.m3u8" tvg-id="TV8 HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" tvg-name="TV 8" group-title="Türkisch",TV 8
+#EXTINF:-1 Yedek="https://x.canlitvapp.com/kanal8/index.m3u8" Yedek2="https://trn03.tulix.tv/gt-tv8-tv/tracks-v1a1/mono.m3u8" Yedek3="http://89.187.191.41/TV8-HD-TR/video.m3u8" Yedek4="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1633" Yedek5="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8" Yedek6="https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/profile_0/chunklist.m3u8" tvg-id="TV8 HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" tvg-name="SHOW TV HD" group-title="Türkisch", SHOW TV HD
+#EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" group-title="ULUSAL", SHOW TV HD
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
-#EXTINF:-1 tvg-id="KANAL D"  tvg-name="KANAL D" group-title="Türkisch",KANAL D
+#EXTINF:-1 tvg-id="KANAL D"  group-title="ULUSAL",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Türkisch",STAR TV
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="ULUSAL",STAR TV
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
-#EXTINF:-1 tvg-name="Tabii" tvg-id="" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Türkisch",Tabii
+#EXTINF:-1 tvg-name="Tabii" tvg-id="" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="SiNEMA",Tabii
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-name="Halk TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/halk-tv-tr.png" group-title="Türkisch",Halk TV
+#EXTINF:-1 tvg-name="Halk TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/halk-tv-tr.png" group-title="HABER",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT TURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="Türkisch",TRT TURK
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT TURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="ULUSAL",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="Türkisch",KANAL 7
+#EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="ULUSAL",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png" group-title="Türkisch",360
+#EXTINF:-1 tvg-id="ext" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png" group-title="ULUSAL",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TEVE2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/teve2-tr.png" group-title="Türkisch",TEVE2
+#EXTINF:-1 tvg-id="ext" tvg-name="TEVE2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/teve2-tr.png" group-title="ULUSAL",TEVE2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TV100" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png" group-title="Türkisch",TV100
+#EXTINF:-1 tvg-id="ext" tvg-name="TV100" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png" group-title="ULUSAL",TV100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BEYAZ TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="Türkisch",BEYAZ TV
+#EXTINF:-1 tvg-id="ext" tvg-name="BEYAZ TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HALK TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="Türkisch",HALK TV
+#EXTINF:-1 tvg-id="ext" tvg-name="HALK TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="ULUSAL",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-haber-tr.png" group-title="Türkisch",TRT HABER
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-haber-tr.png" group-title="ULUSAL",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HABERTURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png" group-title="Türkisch",HABERTURK
+#EXTINF:-1 tvg-id="ext" tvg-name="HABERTURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png" group-title="ULUSAL",HABERTURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/24-tr.png" group-title="Türkisch",24
+#EXTINF:-1 tvg-id="ext" tvg-name="24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/24-tr.png" group-title="ULUSAL",24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DOST TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/dost-tv-tr.png" group-title="Türkisch",DOST TV
+#EXTINF:-1 tvg-id="ext" tvg-name="DOST TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/dost-tv-tr.png" group-title="ULUSAL",DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DIYANET TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/diyanet-tv-tr.png" group-title="Türkisch",DIYANET TV
+#EXTINF:-1 tvg-id="ext" tvg-name="DIYANET TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/diyanet-tv-tr.png" group-title="ULUSAL",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="A SPOR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-SPOR-tr.png" group-title="Türkisch",A SPOR
+#EXTINF:-1 tvg-id="ext" tvg-name="A SPOR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-SPOR-tr.png" group-title="ULUSAL",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aSPOR/aSPOR_1080p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT EBA ORTAKUL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/eba-tv-ortaokul-tr.png" group-title="Türkisch",TRT EBA ORTAKUL
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT EBA ORTAKUL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/eba-tv-ortaokul-tr.png" group-title="ULUSAL",TRT EBA ORTAKUL
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="Türkisch",TRT COCUK DIYANET
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="ULUSAL",TRT COCUK DIYANET
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT AVAZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png" group-title="Türkisch",TRT AVAZ
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT AVAZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png" group-title="ULUSAL",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT KURDI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-kurdi-tr.png" group-title="Türkisch",TRT KURDI
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT KURDI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-kurdi-tr.png" group-title="ULUSAL",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT ARABI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-arabi-tr.png" group-title="Türkisch",TRT ARABI
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT ARABI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-arabi-tr.png" group-title="ULUSAL",TRT ARABI
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT WORLD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-world-tr.png" group-title="Türkisch",TRT WORLD
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT WORLD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-world-tr.png" group-title="ULUSAL",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-muzik-tr.png" group-title="Türkisch",TRT MUZIK
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-muzik-tr.png" group-title="ULUSAL",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="Türkisch",EURO D
+#EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT COCUK" tvg-id="TRTÇOCUK.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="Türkisch",TRT COCUK
+#EXTINF:-1 tvg-name="TRT COCUK" tvg-id="TRTÇOCUK.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="Türkisch",KANAL 7 AVRUPA
+#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="ULUSAL",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
-#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="Türkisch",TEVE 2
+#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="ULUSAL",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="Türkisch",TIVI 6
+#EXTINF:-1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="ULUSAL",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HABERGLOBAL.tr" tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="Türkisch",HABER GLOBAL
+#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HABERGLOBAL.tr" tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="HABER",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
-#EXTINF:-1 tvg-name="KANAL 3" group-title="Türkisch",KANAL 3
+#EXTINF:-1 group-title="Türkisch",KANAL 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 12" group-title="Türkisch",KANAL 12
+#EXTINF:-1 group-title="Türkisch",KANAL 12
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 15" group-title="Türkisch",KANAL 15
+#EXTINF:-1 group-title="Türkisch",KANAL 15
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 23" group-title="Türkisch",KANAL 23
+#EXTINF:-1 group-title="Türkisch",KANAL 23
 https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 26" group-title="Türkisch",KANAL 26
+#EXTINF:-1 group-title="Türkisch",KANAL 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 33" group-title="Türkisch",KANAL 33
+#EXTINF:-1 group-title="Türkisch",KANAL 33
 https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 34" group-title="Türkisch",KANAL 34
+#EXTINF:-1 group-title="Türkisch",KANAL 34
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="KANAL 53" group-title="Türkisch",KANAL 53
+#EXTINF:-1 group-title="Türkisch",KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="KANAL 58" group-title="Türkisch",KANAL 58
+#EXTINF:-1 group-title="Türkisch",KANAL 58
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
-#EXTINF:-1 tvg-name="KANAL 68" group-title="Türkisch",KANAL 68
+#EXTINF:-1 group-title="Türkisch",KANAL 68
 https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL ADA" group-title="Türkisch",KANAL ADA
+#EXTINF:-1 group-title="Türkisch",KANAL ADA
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum
-#EXTINF:-1 tvg-name="KANAL AVRUPA" group-title="Türkisch",KANAL AVRUPA
+#EXTINF:-1 group-title="Türkisch",KANAL AVRUPA
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
-#EXTINF:-1 tvg-name="KANAL B" group-title="Türkisch",KANAL B
+#EXTINF:-1 group-title="Türkisch",KANAL B
 https://baskentaudiovideo.xyz/ULUSALApp/streams/mUE22idl26lA1683879097431.m3u8
-#EXTINF:-1 tvg-name="KANAL Z" group-title="Türkisch",KANAL Z
+#EXTINF:-1 group-title="Türkisch",KANAL Z
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL PLUS" group-title="Türkisch",KANAL PLUS
+#EXTINF:-1 group-title="Türkisch",KANAL PLUS
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL URFA" group-title="Türkisch",KANAL URFA
+#EXTINF:-1 group-title="Türkisch",KANAL URFA
 https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL FIRAT" group-title="Türkisch",KANAL FIRAT
+#EXTINF:-1 group-title="Türkisch",KANAL FIRAT
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
-#EXTINF:-1 tvg-name="KAY TV" group-title="Türkisch",KAY TV
+#EXTINF:-1 group-title="Türkisch",KAY TV
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
-#EXTINF:-1 tvg-name="KOCAELİ TV" group-title="Türkisch",KOCAELİ TV
+#EXTINF:-1 group-title="Türkisch",KOCAELİ TV
 https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="KTV KONYA" group-title="Türkisch",KTV KONYA
+#EXTINF:-1 group-title="Türkisch",KTV KONYA
 https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
-#EXTINF:-1 tvg-name="LİFE TV" group-title="Türkisch",LİFE TV
+#EXTINF:-1 group-title="Türkisch",LİFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
-#EXTINF:-1 tvg-name="MAVi KARADENiZ TV" group-title="Türkisch",MAVi KARADENiZ TV
+#EXTINF:-1 group-title="Türkisch",MAVi KARADENiZ TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:-1 tvg-name="MERCAN TV" group-title="Türkisch",MERCAN TV
+#EXTINF:-1 group-title="Türkisch",MERCAN TV
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
-#EXTINF:-1 tvg-name="METROPOL TV" group-title="Türkisch",METROPOL TV
+#EXTINF:-1 group-title="Türkisch",METROPOL TV
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8?app=supersatforum
-#EXTINF:-1 tvg-name="MUGLA TÜRK TV" group-title="Türkisch",MUGLA TÜRK TV
+#EXTINF:-1 group-title="Türkisch",MUGLA TÜRK TV
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
-#EXTINF:-1 tvg-name="OLAY TURK" group-title="Türkisch",OLAY TURK
+#EXTINF:-1 group-title="Türkisch",OLAY TURK
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
-#EXTINF:-1 tvg-name="SUN TV" group-title="Türkisch",SUN TV
+#EXTINF:-1 group-title="Türkisch",SUN TV
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
-#EXTINF:-1 tvg-name="TARIM TV" group-title="Türkisch",TARIM TV
+#EXTINF:-1 group-title="Türkisch",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
-#EXTINF:-1 tvg-name="TEMPO TV" group-title="Türkisch",TEMPO TV
+#EXTINF:-1 group-title="Türkisch",TEMPO TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:-1 tvg-name="TON TV" group-title="Türkisch",TON TV
+#EXTINF:-1 group-title="Türkisch",TON TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:-1 tvg-name="TRAKYA TÜRK TV" group-title="Türkisch",TRAKYA TÜRK TV
+#EXTINF:-1 group-title="Türkisch",TRAKYA TÜRK TV
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
-#EXTINF:-1 tvg-name="TÜRK KLİNİKLERİ TV" group-title="Türkisch",TÜRK KLİNİKLERİ TV
+#EXTINF:-1 group-title="Türkisch",TÜRK KLİNİKLERİ TV
 http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-name="TV 25" group-title="Türkisch",TV 25
+#EXTINF:-1 group-title="Türkisch",TV 25
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8
-#EXTINF:-1 tvg-name="TV 41" group-title="Türkisch",TV 41
+#EXTINF:-1 group-title="Türkisch",TV 41
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 48" group-title="Türkisch",TV 48
+#EXTINF:-1 group-title="Türkisch",TV 48
 https://ajansplay.com:5443/ULUSALApp/streams/tv48.m3u8
-#EXTINF:-1 tvg-name="TV 52" group-title="Türkisch",TV 52
+#EXTINF:-1 group-title="Türkisch",TV 52
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 264" group-title="Türkisch",TV 264
+#EXTINF:-1 group-title="Türkisch",TV 264
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8?md5=qb_9l3erQIDqZMjbKfALzA&expires=1651666386
-#EXTINF:-1 tvg-name="TV A" group-title="Türkisch",TV A
+#EXTINF:-1 group-title="Türkisch",TV A
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
-#EXTINF:-1 tvg-name="UR FANATiK TV" group-title="Türkisch",UR FANATiK TV
+#EXTINF:-1 group-title="Türkisch",UR FANATiK TV
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:-1 tvg-name="VAN GOLU TV" group-title="Türkisch",VAN GOLU TV
+#EXTINF:-1 group-title="Türkisch",VAN GOLU TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
-#EXTINF:-1 tvg-name="VRT" group-title="Türkisch",VRT
+#EXTINF:-1 group-title="Türkisch",VRT
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
-#EXTINF:-1 tvg-name="VTV TÜRK" group-title="Türkisch",VTV TÜRK
+#EXTINF:-1 group-title="Türkisch",VTV TÜRK
 https://ip252.ozelip.com:22524/marstv/marstv/chunklist.m3u8
-#EXTINF:-1 tvg-name="VUSLAT TV" group-title="Türkisch",VUSLAT TV
+#EXTINF:-1 group-title="Türkisch",VUSLAT TV
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
-#EXTINF:-1 tvg-name="RIZE TURK HD" group-title="Türkisch",RIZE TURK HD
+#EXTINF:-1 group-title="Türkisch",RIZE TURK HD
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="PAZARCIK TV" group-title="Türkisch",PAZARCIK TV
+#EXTINF:-1 group-title="Türkisch",PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="ORDU BEL TV" group-title="Türkisch",ORDU BEL TV
+#EXTINF:-1 group-title="Türkisch",ORDU BEL TV
 https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
-#EXTINF:-1 tvg-name="FiNEST TV" group-title="Türkisch",FiNEST TV
+#EXTINF:-1 group-title="Türkisch",FiNEST TV
 http://media.finest.tv/hls/live.m3u8
-#EXTINF:-1 tvg-name="DAMAR TV" group-title="Türkisch",DAMAR TV
+#EXTINF:-1 group-title="MUZIK",DAMAR TV
 https://tvsms.club/tv.php?kanal=damar&file=.m3u8
-#EXTINF:-1 tvg-name="ARABESK TV" group-title="Türkisch",ARABESK TV
+#EXTINF:-1 group-title="MUZIK",ARABESK TV
 https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
-#EXTINF:-1 tvg-name="SILA TV" group-title="Türkisch",SILA TV
+#EXTINF:-1 group-title="Türkisch",SILA TV
 https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
-#EXTINF:-1 tvg-name="ZEYNO TV" group-title="Türkisch",ZEYNO TV
+#EXTINF:-1 group-title="Türkisch",ZEYNO TV
 https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
-#EXTINF:-1 tvg-name="DOST TV" group-title="Türkisch",DOST TV
+#EXTINF:-1 group-title="Türkisch",DOST TV
 https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
-#EXTINF:-1 tvg-name="EZO TV" group-title="Türkisch",EZO TV
+#EXTINF:-1 group-title="Türkisch",EZO TV
 https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
-#EXTINF:-1 tvg-name="TOP POP TV" group-title="Türkisch",TOP POP TV
+#EXTINF:-1 group-title="MUZIK",TOP POP TV
 https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
-#EXTINF:-1 tvg-name="A VİVA TV" group-title="Türkisch",A VİVA TV
+#EXTINF:-1 group-title="Türkisch",A VİVA TV
 https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
-#EXTINF:-1 tvg-name="ARMA TV" group-title="Türkisch",ARMA TV
+#EXTINF:-1 group-title="Türkisch",ARMA TV
 https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
-#EXTINF:-1 tvg-name="GENC SMS TV" group-title="Türkisch",GENC SMS TV
+#EXTINF:-1 group-title="Türkisch",GENC SMS TV
 https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
-#EXTINF:-1 tvg-name="SAGLIK CHANEL" group-title="Türkisch",SAGLIK CHANEL
+#EXTINF:-1 group-title="Türkisch",SAGLIK CHANEL
 https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="5 OCAK TV" group-title="Türkisch",5 OCAK TV
+#EXTINF:-1 group-title="Türkisch",5 OCAK TV
 https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/chunklist_w1939638168.m3u8
-#EXTINF:-1 tvg-name="ALANYA ATV" group-title="Türkisch",ALANYA ATV
+#EXTINF:-1 group-title="Türkisch",ALANYA ATV
 https://helga.iptv2022.com/sh/AlanyaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="HÜR TV" group-title="Türkisch",HÜR TV
+#EXTINF:-1 group-title="Türkisch",HÜR TV
 https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="BRÜKSEL TÜRK" group-title="Türkisch",BRÜKSEL TÜRK
+#EXTINF:-1 group-title="Türkisch",BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ÖNDE TV" group-title="Türkisch",ÖNDE TV
+#EXTINF:-1 group-title="Türkisch",ÖNDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="ANADOLUM TV" group-title="Türkisch",ANADOLUM TV
+#EXTINF:-1 group-title="Türkisch",ANADOLUM TV
 https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
-#EXTINF:-1 Yedek="https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1632" Yedek3="" tvg-id="BEYAZ TV HD.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/Beyaz_TV_TR_logo_v2.png?1734094253" tvg-name="BEYAZ TV" group-title="Türkisch",BEYAZ TV
+#EXTINF:-1 Yedek="https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1632" Yedek3="" tvg-id="BEYAZ TV HD.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/Beyaz_TV_TR_logo_v2.png?1734094253" group-title="ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-ntvtv/index.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1640" Yedek3="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8" Yedek4="http://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p3000000kbps/index.m3u8?st=nqhIEolIuSAlXxw8Kxeorg&e=1742485578" Yedek5="https://canlitvulusal.xyz/live/ntv/index.m3u8" tvg-id="NTV HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" tvg-name="NTV" group-title="Türkisch",NTV
+#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-ntvtv/index.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1640" Yedek3="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8" Yedek4="http://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p3000000kbps/index.m3u8?st=nqhIEolIuSAlXxw8Kxeorg&e=1742485578" Yedek5="https://canlitvulusal.xyz/live/ntv/index.m3u8" tvg-id="NTV HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8
-#EXTINF:-1 Yedek="https://canli.tgrthaber.com/tgrt.m3u8" Yedek2="" Yedek3="" tvg-id="TGRT HABER HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_HABER_logosu.png" tvg-name="TGRT HABER" group-title="Türkisch",TGRT HABER
+#EXTINF:-1 Yedek="https://canli.tgrthaber.com/tgrt.m3u8" Yedek2="" Yedek3="" tvg-id="TGRT HABER HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_HABER_logosu.png" group-title="HABER",TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" tvg-name="SiNEMA 1" group-title="Türkisch",SiNEMA 1
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="SiNEMA",SiNEMA 1
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/MinikaGO_logo.png/1536px-MinikaGO_logo.png?20200428070543" tvg-name="MINIKA GO" group-title="Türkisch",MINIKA GO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/MinikaGO_logo.png/1536px-MinikaGO_logo.png?20200428070543" group-title="ÇOCUK",MINIKA GO
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
-#EXTINF:-1 Yedek="http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" Yedek2="http://185.234.111.229:8000/play/a00b" Yedek3="https://trn03.tulix.tv/gt-trtcocuk/index.m3u8" Yedek4="https://helga.iptv2022.com/sh/trt_cocuk/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4" tvg-id="TRT ÇOCUK HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_çocuk_logo.png" tvg-name="TRT COCUK" group-title="Türkisch",TRT COCUK
+#EXTINF:-1 Yedek="http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" Yedek2="http://185.234.111.229:8000/play/a00b" Yedek3="https://trn03.tulix.tv/gt-trtcocuk/index.m3u8" Yedek4="https://helga.iptv2022.com/sh/trt_cocuk/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4" tvg-id="TRT ÇOCUK HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_çocuk_logo.png" group-title="ÇOCUK",TRT COCUK
 https://trn03.tulix.tv/gt-trtcocuk/index.m3u8
-#EXTINF:-1 tvg-id="TV8.5.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8.5" group-title="Türkisch",TV 8.5
+#EXTINF:-1 Yedek="https://tv.arectv3.xyz/live/tv85.m3u8" Yedek2="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8" Yedek3="http://31.222.206.98/8814/tracks-v1a1/mono.ts.m3u8?token=test" Yedek4="https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/profile_0/chunklist.m3u8" tvg-id="TV8 group-title="SPOR",5 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="SPOR",TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 Yedek="https://tgn.bozztv.com/dvrfl05/gin-trtSPOR2/playlist.m3u8" Yedek2="http://162.212.179.33:80/dvrfl05/gin-trtSPOR2/playlist.m3u8" Yedek3="http://176.65.146.123:6001/play/a02g/index.m3u8" Yedek4="https://iptv-worker.mark-clark.workers.dev/?ID=54" tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://tv.kolaytv.org/trt-SPOR-yildiz.png" tvg-name="TRT SPOR YILDIZ" group-title="Türkisch",TRT SPOR YILDIZ
+#EXTINF:-1 Yedek="https://tgn.bozztv.com/dvrfl05/gin-trtSPOR2/playlist.m3u8" Yedek2="http://162.212.179.33:80/dvrfl05/gin-trtSPOR2/playlist.m3u8" Yedek3="http://176.65.146.123:6001/play/a02g/index.m3u8" Yedek4="https://iptv-worker.mark-clark.workers.dev/?ID=54" tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://tv.kolaytv.org/trt-SPOR-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
 http://162.212.179.33:80/dvrfl05/gin-trtSPOR2/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="Türkisch",TV 4
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="ULUSAL",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Türkisch",BIR TV
+#EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="ULUSAL",BIR TV
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="Türkisch",LIFE TV
+#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="ULUSAL",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="Türkisch",NTV
+#EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="Türkisch",TV 100
+#EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="HABER",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
-#EXTINF:-1 tvg-name="TELE 1" tvg-id="Tele1.tr" tvg-logo="https://i.ibb.co/6yVTw6f/tele1.png" group-title="Türkisch",TELE 1
+#EXTINF:-1 tvg-name="TELE 1" tvg-id="Tele1.tr" tvg-logo="https://i.ibb.co/6yVTw6f/tele1.png" group-title="HABER",TELE 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="KRT" tvg-id="KRT.tr" tvg-logo="https://i.ibb.co/F8WT2QK/krt.png" group-title="Türkisch",KRT
+#EXTINF:-1 tvg-name="KRT" tvg-id="KRT.tr" tvg-logo="https://i.ibb.co/F8WT2QK/krt.png" group-title="HABER",KRT
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://krtdvr.blutv.com/blutv_krt_live_dvr/live_720p4350000kbps/index.m3u8
-#EXTINF:-1 tvg-name="TVNET" tvg-id="TVNET.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="Türkisch",TVNET
+#EXTINF:-1 tvg-name="TVNET" tvg-id="TVNET.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="HABER",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-name="EKOTURK" tvg-id="Ekoturk.tr" tvg-logo="https://i.ibb.co/F4csSTY/ekoturk.png" group-title="Türkisch",EKOTURK
+#EXTINF:-1 tvg-name="EKOTURK" tvg-id="Ekoturk.tr" tvg-logo="https://i.ibb.co/F4csSTY/ekoturk.png" group-title="HABER",EKOTURK
 https://ythls.kekikakademi.org/youtube/channel/UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" tvg-name="KANAL D HD" group-title="Türkisch", KANAL D HD
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="ULUSAL", KANAL D HD
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
-#EXTINF:-1 tvg-id="SiNEMA Tv.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png"  tvg-name="SiNEMA TV" group-title="Türkisch", SiNEMA TV
+#EXTINF:-1 tvg-id="SiNEMA Tv.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png"  group-title="SiNEMA", SiNEMA TV
 http://65.108.239.207/sinema/index.m3u8
-#EXTINF:-1 tvg-id="SiNEMA Tv 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema2_logo_C0C84D85-E6DD-4807-B52F-277AD04EAE22.png" tvg-name="SiNEMA TV 2" group-title="Türkisch", SiNEMA TV 2
+#EXTINF:-1 tvg-id="SiNEMA Tv 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema2_logo_C0C84D85-E6DD-4807-B52F-277AD04EAE22.png" group-title="SiNEMA", SiNEMA TV 2
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinema2/index.m3u8
-#EXTINF:-1 tvg-id="SİNEMA YERLİ HD.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemayerli_logo_75EF9BC4-3582-455A-BB02-47FAFD00CEA0.png" tvg-name="SiNEMA Yerli" group-title="Türkisch", SiNEMA Yerli
+#EXTINF:-1 tvg-id="SİNEMA YERLİ HD.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemayerli_logo_75EF9BC4-3582-455A-BB02-47FAFD00CEA0.png" group-title="SiNEMA", SiNEMA Yerli
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49303.m3u8
-#EXTINF:-1 tvg-id="SİNEMA YERLİ 2 HD.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemayerli2_logo_6C526B31-1CD4-4F36-B514-FDB85BF311F5.png" tvg-name="SiNEMA Yerli 2" group-title="Türkisch", SiNEMA Yerli 2
+#EXTINF:-1 tvg-id="SİNEMA YERLİ 2 HD.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemayerli2_logo_6C526B31-1CD4-4F36-B514-FDB85BF311F5.png" group-title="SiNEMA", SiNEMA Yerli 2
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49293.m3u8
-#EXTINF:-1 tvg-id="SiNEMA Tv Aile.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaile_logo_B2AC3808-8447-4546-80EF-EA50B34D6089.png" tvg-name="SiNEMA Aile" group-title="Türkisch",SiNEMA Aile
+#EXTINF:-1 tvg-id="SiNEMA Tv Aile.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaile_logo_B2AC3808-8447-4546-80EF-EA50B34D6089.png" group-title="SiNEMA",SiNEMA Aile
 http://65.108.239.207/sinemaaile/index.m3u8
-#EXTINF:-1 tvg-id="SiNEMA Tv Aile 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaile2_logo_AD8E0B38-BE08-48CD-ACF5-28DB2419266C.png" tvg-name="SiNEMA Aile 2" group-title="Türkisch", SiNEMA Aile 2
+#EXTINF:-1 tvg-id="SiNEMA Tv Aile 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaile2_logo_AD8E0B38-BE08-48CD-ACF5-28DB2419266C.png" group-title="SiNEMA", SiNEMA Aile 2
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49302.m3u8
-#EXTINF:-1 tvg-id="SiNEMA Tv Comedy.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemakomedi_logo_16AD0158-3FF7-4897-93A7-26577BC1EC33.png"  tvg-name="SiNEMA Komedi" group-title="Türkisch",SiNEMA Komedi
+#EXTINF:-1 tvg-id="SiNEMA Tv Comedy.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemakomedi_logo_16AD0158-3FF7-4897-93A7-26577BC1EC33.png"  group-title="SiNEMA",SiNEMA Komedi
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinemakomedi/index.m3u8
-#EXTINF:-1 tvg-id="SiNEMA Tv Comedy 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemakomedi2_logo_D70C1FCF-C2FF-4A95-980E-1454B5728647.png" tvg-name="SiNEMA Komedi 2" group-title="Türkisch", SiNEMA Komedi 2
+#EXTINF:-1 tvg-id="SiNEMA Tv Comedy 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemakomedi2_logo_D70C1FCF-C2FF-4A95-980E-1454B5728647.png" group-title="SiNEMA", SiNEMA Komedi 2
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49306.m3u8
-#EXTINF:-1 tvg-id="SiNEMA Tv Aksiyon.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaksiyon_logo_ECCA8162-A617-4236-82AD-BE14CFBE4C8D.png"  tvg-name="SiNEMA Aksiyon" group-title="Türkisch", SiNEMA Aksiyon
+#EXTINF:-1 tvg-id="SiNEMA Tv Aksiyon.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaksiyon_logo_ECCA8162-A617-4236-82AD-BE14CFBE4C8D.png"  group-title="SiNEMA", SiNEMA Aksiyon
 http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="SiNEMA Tv Aksiyon 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaksiyon2_logo_1E3AE25E-8ED5-4388-BF6E-6A902F87DF27.png" tvg-name="SiNEMA Aksiyon 2" group-title="Türkisch",SiNEMA Aksiyon 2
+#EXTINF:-1 tvg-id="SiNEMA Tv Aksiyon 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaksiyon2_logo_1E3AE25E-8ED5-4388-BF6E-6A902F87DF27.png" group-title="SiNEMA",SiNEMA Aksiyon 2
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinemaaksiyon2/index.m3u8
-#EXTINF:-1 tvg-id="SiNEMA Tv 1001.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1001_logo_CA7B6954-4A94-455B-9A1F-5FC54D88B982.png" tvg-name="SiNEMA 1001" group-title="Türkisch",SiNEMA 1001
+#EXTINF:-1 tvg-id="SiNEMA Tv 1001.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1001_logo_CA7B6954-4A94-455B-9A1F-5FC54D88B982.png" group-title="SiNEMA",SiNEMA 1001
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinema1001/index.m3u8
-#EXTINF:-1 tvg-id="SiNEMA Tv 1002.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1002_logo_FEC606FA-0E12-4B71-AE3A-E9879A6AB678.png" tvg-name="SiNEMA 1002" group-title="Türkisch", SiNEMA 1002
+#EXTINF:-1 tvg-id="SiNEMA Tv 1002.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1002_logo_FEC606FA-0E12-4B71-AE3A-E9879A6AB678.png" group-title="SiNEMA", SiNEMA 1002
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://goldvod.org/live/hpgdisco/123456/175.m3u8
-#EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" tvg-name="Moviesmart Türk HD" group-title="Türkisch", Moviesmart Türk HD
+#EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="SiNEMA", Moviesmart Türk HD
 https://ds.ayakkabiparti.lol/mvturk/index.m3u8
-#EXTINF:-1 tvg-id="Film Screen.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" tvg-name="Film Screen HD" group-title="Türkisch", Film Screen HD
+#EXTINF:-1 tvg-id="Film Screen.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="SiNEMA", Film Screen HD
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 tvg-name="TV4" group-title="Türkisch",TV4
+#EXTINF:60 group-title="Türkisch",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-name="SPORTS TV" group-title="Türkisch",SPORTS TV
+#EXTINF:1600 group-title="SPOR",SPORTS TV
 https://live.SPORtstv.com.tr/hls/low/SPORtstv_hd/index.m3u8
-#EXTINF:-1 tvg-name="TRT 1" group-title="Türkisch",TRT 1
+#EXTINF:3228 group-title="Türkisch",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="ATV" group-title="Türkisch",ATV
+#EXTINF:40 group-title="Türkisch",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 tvg-name="TRT 2" group-title="Türkisch",TRT 2
+#EXTINF:43200 group-title="Türkisch",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="FB TV" group-title="Türkisch",FB TV
+#EXTINF:31 group-title="SPOR",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TJK TV" group-title="Türkisch",TJK TV
+#EXTINF:6 group-title="SPOR",TJK TV
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-name="TRT AVAZ" group-title="Türkisch",TRT AVAZ
+#EXTINF:43200 group-title="Türkisch",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="HALK TV" group-title="Türkisch",HALK TV
+#EXTINF:60 group-title="Türkisch",HALK TV
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
-#EXTINF:-1 tvg-name="AKIT TV" group-title="Türkisch",AKIT TV
+#EXTINF:1800 group-title="Türkisch",AKIT TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:-1 tvg-name="BENGU TURK" group-title="Türkisch",BENGU TURK
+#EXTINF:60 group-title="Türkisch",BENGU TURK
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
-#EXTINF:-1 tvg-name="TURKHABER" group-title="Türkisch",TURKHABER
+#EXTINF:16 group-title="Türkisch",TURKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="NR1" group-title="Türkisch",NR1
+#EXTINF:30 group-title="MUZIK",NR1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:-1 tvg-name="KRAL POP" group-title="Türkisch",KRAL POP
+#EXTINF:29 group-title="MUZIK",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:-1 tvg-name="NR1 ASK" group-title="Türkisch",NR1 ASK
+#EXTINF:29 group-title="MUZIK",NR1 ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-name="NR1 DAMAR" group-title="Türkisch",NR1 DAMAR
+#EXTINF:30 group-title="MUZIK",NR1 DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 tvg-name="NR1 DANCE" group-title="Türkisch",NR1 DANCE
+#EXTINF:30 group-title="MUZIK",NR1 DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT MUZIK" group-title="Türkisch",TRT MUZIK
+#EXTINF:60 group-title="MUZIK",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="DREAM TURK" group-title="Türkisch",DREAM TURK
+#EXTINF:60 group-title="MUZIK",DREAM TURK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER TURK TAPTAZE" group-title="Türkisch",POWER TURK TAPTAZE
+#EXTINF:33 group-title="MUZIK",POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 7" group-title="Türkisch",KANAL 7
+#EXTINF:-1 group-title="Türkisch",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-name="360 TV" group-title="Türkisch",360 TV
+#EXTINF:-1 group-title="Türkisch",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-name="TV 8.5" group-title="Türkisch",TV 8.5
+#EXTINF:-1 group-title="Türkisch",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 tvg-name="TRT HABER" group-title="Türkisch",TRT HABER
+#EXTINF:-1 group-title="Türkisch",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TGRT HABER" group-title="Türkisch",TGRT HABER
+#EXTINF:-1 group-title="Türkisch",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:-1 tvg-name="ÜLKE TV" group-title="Türkisch",ÜLKE TV
+#EXTINF:-1 group-title="Türkisch",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 tvg-name="TELE1" group-title="Türkisch",TELE1
+#EXTINF:-1 group-title="Türkisch",TELE1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
-#EXTINF:-1 tvg-name="BENGÜ TÜRK" group-title="Türkisch",BENGÜ TÜRK
+#EXTINF:-1 group-title="Türkisch",BENGÜ TÜRK
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-name="EKOL TV" group-title="Türkisch",EKOL TV
+#EXTINF:-1 group-title="Türkisch",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1 tvg-name="TH TURK HABER TV" group-title="Türkisch",TH TURK HABER TV
+#EXTINF:-1 group-title="Türkisch",TH TURK HABER TV
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
-#EXTINF:-1 tvg-name="HABER 61" group-title="Türkisch",HABER 61
+#EXTINF:-1 group-title="Türkisch",HABER 61
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="EURO D" group-title="Türkisch",EURO D
+#EXTINF:-1 group-title="Türkisch",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" group-title="Türkisch",KANAL 7 AVRUPA
+#EXTINF:-1 group-title="Türkisch",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT TÜRK" group-title="Türkisch",TRT TÜRK
+#EXTINF:-1 group-title="Türkisch",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="DREAM TURK" group-title="Türkisch",DREAM TURK
+#EXTINF:-1 group-title="MUZIK",DREAM TURK
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-name="NR 1 TURK" group-title="Türkisch",NR 1 TURK
+#EXTINF:-1 group-title="Türkisch",NR 1 TURK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
-#EXTINF:-1 tvg-name="POWER LOVE" group-title="Türkisch",POWER LOVE
+#EXTINF:-1 group-title="MUZIK",POWER LOVE
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="NR 1 DAMAR" group-title="Türkisch",NR 1 DAMAR
+#EXTINF:-1 group-title="MUZIK",NR 1 DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
-#EXTINF:-1 tvg-name="NR 1 TV" group-title="Türkisch",NR 1 TV
+#EXTINF:-1 group-title="Türkisch",NR 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
-#EXTINF:-1 tvg-name="POWER TURK" group-title="Türkisch",POWER TURK
+#EXTINF:-1 group-title="MUZIK",POWER TURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-name="POWER TURK SLOW" group-title="Türkisch",POWER TURK SLOW
+#EXTINF:-1 group-title="MUZIK",POWER TURK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER TV AKUSTiK" group-title="Türkisch",POWER TV AKUSTiK
+#EXTINF:-1 group-title="MUZIK",POWER TV AKUSTiK
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER TURK TAPTAZE" group-title="Türkisch",POWER TURK TAPTAZE
+#EXTINF:-1 group-title="MUZIK",POWER TURK TAPTAZE
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER DANCE" group-title="Türkisch",POWER DANCE
+#EXTINF:-1 group-title="MUZIK",POWER DANCE
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="SLOW KARADENIZ TV" group-title="Türkisch",SLOW KARADENIZ TV
+#EXTINF:-1 group-title="Türkisch",SLOW KARADENIZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
-#EXTINF:-1 tvg-name="ASPOR" group-title="Türkisch",ASPOR
+#EXTINF:-1 group-title="SPOR",ASPOR
 https://trkvz-live.daioncdn.net/aSPOR/aSPOR.m3u8
-#EXTINF:-1 tvg-name="HT SPOR" group-title="Türkisch",HT SPOR
+#EXTINF:-1 group-title="SPOR",HT SPOR
 https://ciner-live.ercdn.net/htSPOR/htSPOR.m3u8
-#EXTINF:-1 tvg-name="MELTEM TV" group-title="Türkisch",MELTEM TV
+#EXTINF:-1 group-title="Türkisch",MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:-1 tvg-name="TiViTURK" group-title="Türkisch",TiViTURK
+#EXTINF:-1 group-title="Türkisch",TiViTURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-name="DENiZ POSTASI TV" group-title="Türkisch",DENiZ POSTASI TV
+#EXTINF:-1 group-title="Türkisch",DENiZ POSTASI TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1 tvg-name="İSVİÇRE TV" group-title="Türkisch",İSVİÇRE TV
+#EXTINF:-1 group-title="Türkisch",İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="DİZİ TV" group-title="Türkisch",DİZİ TV
+#EXTINF:-1 group-title="Türkisch",DİZİ TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-name="DiYANET TV" group-title="Türkisch",DiYANET TV
+#EXTINF:-1 group-title="Türkisch",DiYANET TV
 http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="LALEGUL TV" group-title="Türkisch",LALEGUL TV
+#EXTINF:-1 group-title="Türkisch",LALEGUL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 tvg-name="SEMERKAND TV" group-title="Türkisch",SEMERKAND TV
+#EXTINF:-1 group-title="Türkisch",SEMERKAND TV
 http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="SEMERKAND TV WAY" group-title="Türkisch",SEMERKAND TV WAY
+#EXTINF:-1 group-title="Türkisch",SEMERKAND TV WAY
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="REHBER TV" group-title="Türkisch",REHBER TV
+#EXTINF:-1 group-title="Türkisch",REHBER TV
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="KANAL ON 4 TV" group-title="Türkisch",KANAL ON 4 TV
+#EXTINF:-1 group-title="Türkisch",KANAL ON 4 TV
 https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8
-#EXTINF:-1 tvg-name="AL ZAHRA TURK TV" group-title="Türkisch",AL ZAHRA TURK TV
+#EXTINF:-1 group-title="Türkisch",AL ZAHRA TURK TV
 https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 tvg-name="MC TV" group-title="Türkisch",MC TV
+#EXTINF:-1 group-title="Türkisch",MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:-1 tvg-name="MUKABELE TV" group-title="Türkisch",MUKABELE TV
+#EXTINF:-1 group-title="Türkisch",MUKABELE TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Al QURAN KAREEM - KABE CANLI" group-title="Türkisch",Al QURAN KAREEM - KABE CANLI
+#EXTINF:-1 group-title="Türkisch",Al QURAN KAREEM - KABE CANLI
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-#EXTINF:-1 tvg-name="TÜRKMENELİ TV" group-title="Türkisch",TÜRKMENELİ TV
+#EXTINF:-1 group-title="Türkisch",TÜRKMENELİ TV
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
-#EXTINF:-1 tvg-name="AKSU TV" group-title="Türkisch",AKSU TV
+#EXTINF:-1 group-title="Türkisch",AKSU TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
-#EXTINF:-1 tvg-name="ANADOLUNET TV" group-title="Türkisch",ANADOLUNET TV
+#EXTINF:-1 group-title="Türkisch",ANADOLUNET TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1 tvg-name="ARAS TV" group-title="Türkisch",ARAS TV
+#EXTINF:-1 group-title="Türkisch",ARAS TV
 https://2.rtmp.org/tv217/yayin.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="BİR TV" group-title="Türkisch",BİR TV
+#EXTINF:-1 group-title="Türkisch",BİR TV
 https://edge1.socialsmart.tv/birtv/bant1/chunks.m3u8
-#EXTINF:-1 tvg-name="BODRUM KENT TV" group-title="Türkisch",BODRUM KENT TV
+#EXTINF:-1 group-title="Türkisch",BODRUM KENT TV
 https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
-#EXTINF:-1 tvg-name="BRTV" group-title="Türkisch",BRTV
+#EXTINF:-1 group-title="Türkisch",BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
-#EXTINF:-1 tvg-name="BURSA LiNE TV" group-title="Türkisch",BURSA LiNE TV
+#EXTINF:-1 group-title="Türkisch",BURSA LiNE TV
 https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8
-#EXTINF:-1 tvg-name="CAY TV" group-title="Türkisch",CAY TV
+#EXTINF:-1 group-title="Türkisch",CAY TV
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="ÇİFTÇİ TV" group-title="Türkisch",ÇİFTÇİ TV
+#EXTINF:-1 group-title="Türkisch",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
-#EXTINF:-1 tvg-name="DERiN TV" group-title="Türkisch",DERiN TV
+#EXTINF:-1 group-title="Türkisch",DERiN TV
 https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8
-#EXTINF:-1 tvg-name="DİM TV" group-title="Türkisch",DİM TV
+#EXTINF:-1 group-title="Türkisch",DİM TV
 https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
-#EXTINF:-1 tvg-name="ERCİYES TV" group-title="Türkisch",ERCİYES TV
+#EXTINF:-1 group-title="Türkisch",ERCİYES TV
 https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
-#EXTINF:-1 tvg-name="ER TV" group-title="Türkisch",ER TV
+#EXTINF:-1 group-title="Türkisch",ER TV
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
-#EXTINF:-1 tvg-name="ES TV" group-title="Türkisch",ES TV
+#EXTINF:-1 group-title="Türkisch",ES TV
 https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
-#EXTINF:-1 tvg-name="ETV KAYSERi" group-title="Türkisch",ETV KAYSERi
+#EXTINF:-1 group-title="Türkisch",ETV KAYSERi
 https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
-#EXTINF:-1 tvg-name="ETV MANiSA" group-title="Türkisch",ETV MANiSA
+#EXTINF:-1 group-title="Türkisch",ETV MANiSA
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="GRT GAZİANTEP TV" group-title="Türkisch",GRT GAZİANTEP TV
+#EXTINF:-1 group-title="Türkisch",GRT GAZİANTEP TV
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
-#EXTINF:-1 tvg-name="GUNEYDOGU TV" group-title="Türkisch",GUNEYDOGU TV
+#EXTINF:-1 group-title="Türkisch",GUNEYDOGU TV
 https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="GURBET 24 TV" group-title="Türkisch",GURBET 24 TV
+#EXTINF:-1 group-title="Türkisch",GURBET 24 TV
 http://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/playlist.m3u8
-#EXTINF:-1 tvg-name="HUNAT TV" group-title="Türkisch",HUNAT TV
+#EXTINF:-1 group-title="Türkisch",HUNAT TV
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
-#EXTINF:-1 tvg-name="iCEL TV" group-title="Türkisch",iCEL TV
+#EXTINF:-1 group-title="Türkisch",iCEL TV
 https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="İZMİR TIME 35 TV" group-title="Türkisch",İZMİR TIME 35 TV
+#EXTINF:-1 group-title="Türkisch",İZMİR TIME 35 TV
 https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
-#EXTINF:-1 tvg-name="İKRA TV" group-title="Türkisch",İKRA TV
+#EXTINF:-1 group-title="Türkisch",İKRA TV
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8
-#EXTINF:-1 tvg-name="KARDELEN TV" group-title="Deutsch",KARDELEN TV
+#EXTINF:-1 group-title="Deutsch",KARDELEN TV
 https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 19" group-title="Türkisch",KANAL 19
+#EXTINF:-1 group-title="Türkisch",KANAL 19
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="KANAL 32" group-title="Türkisch",KANAL 32
+#EXTINF:-1 group-title="Türkisch",KANAL 32
 https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
-#EXTINF:-1 tvg-name="TOKAT TV" group-title="Türkisch",TOKAT TV
+#EXTINF:-1 group-title="Türkisch",TOKAT TV
 https://cdn-tokattv.yayin.com.tr/tokattv/tokattv/chunklist.m3u8
-#EXTINF:-1 tvg-name="BELEMTÜRK" group-title="Türkisch",BELEMTÜRK
+#EXTINF:-1 group-title="Türkisch",BELEMTÜRK
 https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8
-#EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" tvg-name="TABII TV" group-title="Türkisch",TABII TV
+#EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="SiNEMA",TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
-#EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="Türkisch",KANAL 7
+#EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="ULUSAL",KANAL 7
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="NR1 FASHION ONE" tvg-id="" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" group-title="Türkisch",NR1 FASHION ONE
+#EXTINF:-1 tvg-name="NR1 FASHION ONE" tvg-id="" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" group-title="MUZIK",NR1 FASHION ONE
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" tvg-name="Zarok TV Kürtçe" group-title="Türkisch",Zarok TV Kürtçe
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="ÇOCUK",Zarok TV Kürtçe
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 Yedek="http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8" Yedek2="http://89.187.191.41/Kanal-D-HD-TR/video.m3u8" Yedek3="https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8" Yedek4="http://176.65.146.171:9981/stream/channelid/23410162?profile=htsp" Yedek5="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2326/index.m3u8" Yedek6="https://vavoo.ahkm.workers.dev/?ID=1130441933d454b324b033" Yedek7="http://95.174.71.114/TR-KANAL-D/index.m3u8" tvg-id="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" tvg-name="KANAL D" group-title="Türkisch",KANAL D
+#EXTINF:-1 Yedek="http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8" Yedek2="http://89.187.191.41/Kanal-D-HD-TR/video.m3u8" Yedek3="https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8" Yedek4="http://176.65.146.171:9981/stream/channelid/23410162?profile=htsp" Yedek5="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2326/index.m3u8" Yedek6="https://vavoo.ahkm.workers.dev/?ID=1130441933d454b324b033" Yedek7="http://95.174.71.114/TR-KANAL-D/index.m3u8" tvg-id="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-#EXTINF:-1 Yedek="https://dogus-live.daioncdn.net/startv/startv_720p.m3u8" Yedek2="http://176.65.146.104:9981/stream/channelid/518299962" Yedek3="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8" Yedek4="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6893/index.m3u8" Yedek5="https://tv.cdn-vizi.workers.dev/?ID=5" Yedek6="https://vavoo.ahkm.workers.dev/?ID=272055669263af9be64671" Yedek7="http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8" Yedek8="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6893/index.m3u8" tvg-id="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" tvg-name="STAR TV" group-title="Türkisch",STAR TV
+#EXTINF:-1 Yedek="https://dogus-live.daioncdn.net/startv/startv_720p.m3u8" Yedek2="http://176.65.146.104:9981/stream/channelid/518299962" Yedek3="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8" Yedek4="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6893/index.m3u8" Yedek5="https://tv.cdn-vizi.workers.dev/?ID=5" Yedek6="https://vavoo.ahkm.workers.dev/?ID=272055669263af9be64671" Yedek7="http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8" Yedek8="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6893/index.m3u8" tvg-id="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
-#EXTINF:-1 Yedek="http://176.65.146.171:9981/stream/channelid/569904314?profile=htsp" Yedek2="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6797/index.m3u8" Yedek3="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8" Yedek4="https://vavoo.ahkm.workers.dev/?ID=144949986573359afbfeae" Yedek5="http://tv.smartglwiz.workers.dev/?ID=ShowTV_HD" Yedek6="https://goldvod.org/live/hpgdiscoo/123456/521.m3u8" Yedek7="https://tv.cdn-vizi.workers.dev/?ID=3" Yedek8="https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558" tvg-id="SHOW TV HD.tr" yedek9="https://vavoo.ahkm.workers.dev/?ID=3537232978db7b25368a4b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" tvg-name="SHOW TV" group-title="Türkisch",SHOW TV
+#EXTINF:-1 Yedek="http://176.65.146.171:9981/stream/channelid/569904314?profile=htsp" Yedek2="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6797/index.m3u8" Yedek3="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8" Yedek4="https://vavoo.ahkm.workers.dev/?ID=144949986573359afbfeae" Yedek5="http://tv.smartglwiz.workers.dev/?ID=ShowTV_HD" Yedek6="https://goldvod.org/live/hpgdiscoo/123456/521.m3u8" Yedek7="https://tv.cdn-vizi.workers.dev/?ID=3" Yedek8="https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558" tvg-id="SHOW TV HD.tr" yedek9="https://vavoo.ahkm.workers.dev/?ID=3537232978db7b25368a4b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="ULUSAL",SHOW TV
 http://176.65.146.171:9981/stream/channelid/569904314?profile=htsp
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-ntvtv/index.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1640" Yedek3="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8" Yedek4="http://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p3000000kbps/index.m3u8?st=nqhIEolIuSAlXxw8Kxeorg&e=1742485578" Yedek5="https://canlitvulusal.xyz/live/ntv/index.m3u8" Yedek6="https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8" tvg-id="NTV HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" tvg-name="NTV" group-title="Türkisch",NTV
+#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-ntvtv/index.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1640" Yedek3="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8" Yedek4="http://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p3000000kbps/index.m3u8?st=nqhIEolIuSAlXxw8Kxeorg&e=1742485578" Yedek5="https://canlitvulusal.xyz/live/ntv/index.m3u8" Yedek6="https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8" tvg-id="NTV HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="ULUSAL",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
-#EXTINF:-1 Yedek="https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8b65nnyxpdwm&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2" Yedek2="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8" Yedek3="" tvg-id="HABERTÜRK HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/HABERturk_logo.png" tvg-name="HABER TURK" group-title="Türkisch",HABER TURK
+#EXTINF:-1 Yedek="https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8b65nnyxpdwm&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2" Yedek2="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8" Yedek3="" tvg-id="HABERTÜRK HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/HABERturk_logo.png" group-title="ULUSAL",HABER TURK
 https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8b65nnyxpdwm&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2
-#EXTINF:-1 Yedek="http://s06.wsbof.com:8080/s/6f068629/cnn-hd-tr.m3u8" Yedek2="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6926/index.m3u8" Yedek3="http://176.65.146.171:9981/stream/channelid/110385441?profile=htsp" Yedek4="http://78.128.125.60:9981/play/a01f/index.m3u8" Yedek5="http://95.174.71.114:80/TR-CNN-TURK/index.m3u8" Yedek6="https://helga.iptv2022.com/sh/cnn_turk/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4&|User-Agent=okhttp/3.8.0/|Referer=https://turkcanli.tv/" Yedek7="https://cdn-eu.tivimivi.com/streams/114/1920x1080/index.m3u8" tvg-id="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" tvg-name="CNN TURK" group-title="Türkisch",CNN TURK
+#EXTINF:-1 Yedek="http://s06.wsbof.com:8080/s/6f068629/cnn-hd-tr.m3u8" Yedek2="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6926/index.m3u8" Yedek3="http://176.65.146.171:9981/stream/channelid/110385441?profile=htsp" Yedek4="http://78.128.125.60:9981/play/a01f/index.m3u8" Yedek5="http://95.174.71.114:80/TR-CNN-TURK/index.m3u8" Yedek6="https://helga.iptv2022.com/sh/cnn_turk/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4&|User-Agent=okhttp/3.8.0/|Referer=https://turkcanli.tv/" Yedek7="https://cdn-eu.tivimivi.com/streams/114/1920x1080/index.m3u8" tvg-id="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="ULUSAL",CNN TURK
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6926/index.m3u8
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-tvnet/index.m3u8" Yedek2="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6936/index.m3u8" Yedek3="https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8" tvg-id="TVNET HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tvnet_logo_%282022%29.svg/1280px-Tvnet_logo_%282022%29.svg.png" tvg-name="TV NET" group-title="Türkisch",TV NET
+#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-tvnet/index.m3u8" Yedek2="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6936/index.m3u8" Yedek3="https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8" tvg-id="TVNET HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tvnet_logo_%282022%29.svg/1280px-Tvnet_logo_%282022%29.svg.png" group-title="ULUSAL",TV NET
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 Yedek="https://canli.tgrthaber.com/tgrt.m3u8" Yedek2="https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8" Yedek3="" tvg-id="TGRT HABER HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_HABER_logosu.png" tvg-name="TGRT HABER" group-title="Türkisch",TGRT HABER
+#EXTINF:-1 Yedek="https://canli.tgrthaber.com/tgrt.m3u8" Yedek2="https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8" Yedek3="" tvg-id="TGRT HABER HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_HABER_logosu.png" group-title="ULUSAL",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGcdX8RFFGHnr6abeuEUZYKUW9xNNlW_GmQ&s" tvg-name="CINE 1" group-title="Türkisch",CINE 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGcdX8RFFGHnr6abeuEUZYKUW9xNNlW_GmQ&s" group-title="ULUSAL",CINE 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
-#EXTINF:-1 tvg-id="MİNİKA GO.tr" tvg-logo="https://i.pinimg.com/originals/5b/9f/c9/5b9fc921bb50cff6ac0678d7bf6df06e.jpg" tvg-name="MINIKA GO" group-title="Türkisch",MINIKA GO
+#EXTINF:-1 tvg-id="MİNİKA GO.tr" tvg-logo="https://i.pinimg.com/originals/5b/9f/c9/5b9fc921bb50cff6ac0678d7bf6df06e.jpg" group-title="ULUSAL",MINIKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
-#EXTINF:-1 Yedek="https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8" Yedek2="http://185.234.111.229:8000/play/a00b" Yedek3="https://trn03.tulix.tv/gt-trtcocuk/index.m3u8" Yedek4="https://helga.iptv2022.com/sh/trt_cocuk/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4" tvg-id="TRT ÇOCUK HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_çocuk_logo.png" tvg-name="TRT COCUK" group-title="Türkisch",TRT COCUK
+#EXTINF:-1 Yedek="https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8" Yedek2="http://185.234.111.229:8000/play/a00b" Yedek3="https://trn03.tulix.tv/gt-trtcocuk/index.m3u8" Yedek4="https://helga.iptv2022.com/sh/trt_cocuk/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4" tvg-id="TRT ÇOCUK HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_çocuk_logo.png" group-title="ULUSAL",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 Yedek="http://stream.tvcdn.net/eglence/a2.m3u8" Yedek2="http://95.174.71.114/TR-A2/index.m3u8" Yedek3="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8" Yedek4="http://89.187.191.41/A2-HD-TR/video.m3u8" Yedek5="https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8" tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" tvg-name="A2" group-title="Türkisch",A2
+#EXTINF:-1 Yedek="http://stream.tvcdn.net/eglence/a2.m3u8" Yedek2="http://95.174.71.114/TR-A2/index.m3u8" Yedek3="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8" Yedek4="http://89.187.191.41/A2-HD-TR/video.m3u8" Yedek5="https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8" tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="ULUSAL",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
-#EXTINF:-1 Yedek1="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8" Yedek2="http://176.65.146.104:9981/stream/channelid/1060934145?profile=pass" tvg-id="DMAX HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" tvg-name="DMAX" group-title="Türkisch",DMAX
+#EXTINF:-1 Yedek1="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8" Yedek2="http://176.65.146.104:9981/stream/channelid/1060934145?profile=pass" tvg-id="DMAX HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="ULUSAL",DMAX
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8
-#EXTINF:-1 Yedek="https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8" Yedek2="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8" Yedek3="https://trn03.tulix.tv/gt-tlc-tv/index.m3u8" tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" tvg-name="TLC" group-title="Türkisch",TLC
+#EXTINF:-1 Yedek="https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8" Yedek2="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8" Yedek3="https://trn03.tulix.tv/gt-tlc-tv/index.m3u8" tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" group-title="ULUSAL",TLC
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8
-#EXTINF:-1 Yedek1="https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8" Yedek2="https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8" tvg-id="tagesschau24.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png" tvg-name="TAGESSCHAU 24" group-title="Türkisch",TAGESSCHAU 24
+#EXTINF:-1 Yedek1="https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8" Yedek2="https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8" tvg-id="tagesschau24.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png" group-title="ULUSAL",TAGESSCHAU 24
 https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
-#EXTINF:-1 Yedek1="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/15181/index.m3u8" Yedek2="https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NDR_Dachmarke.png" tvg-name="NDR" group-title="Türkisch",NDR
+#EXTINF:-1 Yedek1="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/15181/index.m3u8" Yedek2="https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NDR_Dachmarke.png" group-title="ULUSAL",NDR
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/de/offer/madeforgermany/samsung_offer_MFG_RakutenTV_Logo_PC.png?$720_N_PNG$" tvg-name="RAKUTEN ACTION" group-title="Türkisch",RAKUTEN ACTION
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/de/offer/madeforgermany/samsung_offer_MFG_RakutenTV_Logo_PC.png?$720_N_PNG$" group-title="ULUSAL",RAKUTEN ACTION
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-ULUSALChannel-6066/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/de/offer/madeforgermany/samsung_offer_MFG_RakutenTV_Logo_PC.png?$720_N_PNG$" tvg-name="RAKUTEN CRIME" group-title="Türkisch",RAKUTEN CRIME
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/de/offer/madeforgermany/samsung_offer_MFG_RakutenTV_Logo_PC.png?$720_N_PNG$" group-title="ULUSAL",RAKUTEN CRIME
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-ULUSALChannel-6217/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/de/offer/madeforgermany/samsung_offer_MFG_RakutenTV_Logo_PC.png?$720_N_PNG$" tvg-name="RAKUTEN COMEDY" group-title="Türkisch",RAKUTEN COMEDY
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/de/offer/madeforgermany/samsung_offer_MFG_RakutenTV_Logo_PC.png?$720_N_PNG$" group-title="ULUSAL",RAKUTEN COMEDY
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-ULUSALChannel-6182/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/de/offer/madeforgermany/samsung_offer_MFG_RakutenTV_Logo_PC.png?$720_N_PNG$" tvg-name="RAKUTEN DRAMA" group-title="Türkisch",RAKUTEN DRAMA
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/de/offer/madeforgermany/samsung_offer_MFG_RakutenTV_Logo_PC.png?$720_N_PNG$" group-title="ULUSAL",RAKUTEN DRAMA
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-ULUSALChannel-6096/master.m3u8
-#EXTINF:-1 Yedek1="https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8" Yedek2="https://cdn01.medialive.one:2096/SAUDIQURANFHD/tracks-v1a1/mono.ts.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCVPXXnt4LxrLpCI6sRKfYu0bZkjHUg1WkQ&s" tvg-name="MAKKAH TV" group-title="Türkisch",MAKKAH TV
+#EXTINF:-1 Yedek1="https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8" Yedek2="https://cdn01.medialive.one:2096/SAUDIQURANFHD/tracks-v1a1/mono.ts.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCVPXXnt4LxrLpCI6sRKfYu0bZkjHUg1WkQ&s" group-title="ULUSAL",MAKKAH TV
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-#EXTINF:-1 Yedek1="https://cdn22lhr.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/playlist.m3u8" Yedek2="https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8" tvg-logo="https://e7.pngegg.com/pngimages/758/259/png-clipart-medina-mecca-television-channel-streaming-media-others-miscellaneous-television.png" tvg-name="MADINAH TV" group-title="Türkisch",MADINAH TV
+#EXTINF:-1 Yedek1="https://cdn22lhr.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/playlist.m3u8" Yedek2="https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8" tvg-logo="https://e7.pngegg.com/pngimages/758/259/png-clipart-medina-mecca-television-channel-streaming-media-others-miscellaneous-television.png" group-title="ULUSAL",MADINAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/saudi_sunnah-avc1_600000=2-mp4a_145600_ara=3.m3u8
-#EXTINF:-1 Yedek="http://78.128.125.60:9980/play/a01n/index.m3u8" Yedek2="https://helga.iptv2022.com/sh/trt_spor/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3v4" Yedek3="https://iptv-worker.mark-clark.workers.dev/?ID=20" Yedek4="http://31.222.206.98/8827/tracks-v1a1/mono.ts.m3u8?token=test" Yedek5="https://trn03.tulix.tv/gt-trtspor1/index.m3u8" Yedek6="http://176.65.146.171:9981/stream/channelid/835819132?profile=htsp" Yedek7="http://85.209.248.3:9897/trt3spor" tvg-id="TRT SPOR HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNu1KowYW0Ywy_-lMPzCvLGBMUaNIUAUIcwGGX1iLjHzhRclixpxWjf4lLG9QeYDPg754&usqp=CAU" tvg-name="TRT SPOR" group-title="Türkisch",TRT SPOR
+#EXTINF:-1 Yedek="http://78.128.125.60:9980/play/a01n/index.m3u8" Yedek2="https://helga.iptv2022.com/sh/trt_spor/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3v4" Yedek3="https://iptv-worker.mark-clark.workers.dev/?ID=20" Yedek4="http://31.222.206.98/8827/tracks-v1a1/mono.ts.m3u8?token=test" Yedek5="https://trn03.tulix.tv/gt-trtspor1/index.m3u8" Yedek6="http://176.65.146.171:9981/stream/channelid/835819132?profile=htsp" Yedek7="http://85.209.248.3:9897/trt3spor" tvg-id="TRT SPOR HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNu1KowYW0Ywy_-lMPzCvLGBMUaNIUAUIcwGGX1iLjHzhRclixpxWjf4lLG9QeYDPg754&usqp=CAU" group-title="ULUSAL",TRT SPOR
 http://176.65.146.171:9981/stream/channelid/835819132?profile=htsp
-#EXTINF:-1 Yedek="https://live.canlitvulusal.xyz/live/aspor/index.m3u8" Yedek2="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8" Yedek3="https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8" Yedek4="http://50.7.144.122:1935/livetv/aspor.stream/sec-f5-v1-a1.m3u8" Yedek5="http://195.142.1.211:4022/udp/224.2.2.21:10001" Yedek6="https://217.30.11.74/e/158.m3u8" Yedek7="https://trkvz-live.daioncdn.net/aspor/aspor.m3u8" Yedek8="http://176.65.146.123:6001/play/a01v/index.m3u8" tvg-id="A SPOR HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_SPOR_logosu.png" tvg-name="A SPOR" group-title="Türkisch",A SPOR
+#EXTINF:-1 Yedek="https://live.canlitvulusal.xyz/live/aspor/index.m3u8" Yedek2="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8" Yedek3="https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8" Yedek4="http://50.7.144.122:1935/livetv/aspor.stream/sec-f5-v1-a1.m3u8" Yedek5="http://195.142.1.211:4022/udp/224.2.2.21:10001" Yedek6="https://217.30.11.74/e/158.m3u8" Yedek7="https://trkvz-live.daioncdn.net/aspor/aspor.m3u8" Yedek8="http://176.65.146.123:6001/play/a01v/index.m3u8" tvg-id="A SPOR HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_SPOR_logosu.png" group-title="ULUSAL",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 Yedek="https://tgn.bozztv.com/dvrfl05/gin-trtspor2/playlist.m3u8" Yedek2="http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8" Yedek3="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2145/index.m3u8" Yedek4="https://iptv-worker.mark-clark.workers.dev/?ID=54" tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://vectorseek.com/wp-content/uploads/2025/12/TRT-SPOR-Yildiz-Logo-PNG-SVG-Vector.png" tvg-name="TRT SPOR YILDIZ" group-title="Türkisch",TRT SPOR YILDIZ
+#EXTINF:-1 Yedek="https://tgn.bozztv.com/dvrfl05/gin-trtspor2/playlist.m3u8" Yedek2="http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8" Yedek3="http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2145/index.m3u8" Yedek4="https://iptv-worker.mark-clark.workers.dev/?ID=54" tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://vectorseek.com/wp-content/uploads/2025/12/TRT-SPOR-Yildiz-Logo-PNG-SVG-Vector.png" group-title="ULUSAL",TRT SPOR YILDIZ
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2145/index.m3u8
-#EXTINF:-1 tvg-name="ATV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",ATV FHD
+#EXTINF:-1 tvg-name="ATV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv.png" tvg-country="TR" tvg-language="tur" group-title="ULUSAL",ATV FHD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-#EXTINF:-1 tvg-name="A2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",A2 HD
+#EXTINF:-1 tvg-name="A2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2.png" tvg-country="TR" tvg-language="tur" group-title="ULUSAL",A2 HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-name="KANAL D FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-d.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",KANAL D FHD
+#EXTINF:-1 tvg-name="KANAL D FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-d.png" tvg-country="TR" tvg-language="tur" group-title="ULUSAL",KANAL D FHD
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
-#EXTINF:-1 tvg-name="SHOW TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tv.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",SHOW TV FHD
+#EXTINF:-1 tvg-name="SHOW TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tv.png" tvg-country="TR" tvg-language="tur" group-title="ULUSAL",SHOW TV FHD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-name="TV 8 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",TV 8 FHD
+#EXTINF:-1 tvg-name="TV 8 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8.png" tvg-country="TR" tvg-language="tur" group-title="ULUSAL",TV 8 FHD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-#EXTINF:-1 tvg-name="TV 8.5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-5.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",TV 8.5 HD
+#EXTINF:-1 tvg-name="TV 8.5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-5.png" tvg-country="TR" tvg-language="tur" group-title="ULUSAL",TV 8.5 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:-1 tvg-name="TEVE2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/teve2.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",TEVE2 HD
+#EXTINF:-1 tvg-name="TEVE2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/teve2.png" tvg-country="TR" tvg-language="tur" group-title="ULUSAL",TEVE2 HD
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
-#EXTINF:-1 tvg-name="CNBC-e HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnbc-e.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",CNBC-e HD
+#EXTINF:-1 tvg-name="CNBC-e HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnbc-e.png" tvg-country="TR" tvg-language="tur" group-title="ULUSAL",CNBC-e HD
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 tvg-name="HABERTURK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",HABERTURK HD
+#EXTINF:-1 tvg-name="HABERTURK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk.png" tvg-country="TR" tvg-language="tur" group-title="HABER",HABERTURK HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-name="NTV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",NTV HD
+#EXTINF:-1 tvg-name="NTV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv.png" tvg-country="TR" tvg-language="tur" group-title="HABER",NTV HD
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-#EXTINF:-1 tvg-name="A HABER FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-haber.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",A HABER FHD
+#EXTINF:-1 tvg-name="A HABER FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-haber.png" tvg-country="TR" tvg-language="tur" group-title="HABER",A HABER FHD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-#EXTINF:-1 tvg-name="24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/24-tv.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",24 HD
+#EXTINF:-1 tvg-name="24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/24-tv.png" tvg-country="TR" tvg-language="tur" group-title="HABER",24 HD
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERG HT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bloomberg-ht.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",BLOOMBERG HT HD
+#EXTINF:-1 tvg-name="BLOOMBERG HT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bloomberg-ht.png" tvg-country="TR" tvg-language="tur" group-title="HABER",BLOOMBERG HT HD
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-name="A SPOR FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",A SPOR FHD
+#EXTINF:-1 tvg-name="A SPOR FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor.png" tvg-country="TR" tvg-language="tur" group-title="SPOR",A SPOR FHD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-name="HT SPOR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ht-spor.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",HT SPOR HD
+#EXTINF:-1 tvg-name="HT SPOR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ht-spor.png" tvg-country="TR" tvg-language="tur" group-title="SPOR",HT SPOR HD
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 tvg-name="TRT COCUK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",TRT COCUK HD
+#EXTINF:-1 tvg-name="TRT COCUK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk.png" tvg-country="TR" tvg-language="tur" group-title="ÇOCUK",TRT COCUK HD
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT COCUK DIYANET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-diyanet-cocuk.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",TRT COCUK DIYANET HD
+#EXTINF:-1 tvg-name="TRT COCUK DIYANET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-diyanet-cocuk.png" tvg-country="TR" tvg-language="tur" group-title="ÇOCUK",TRT COCUK DIYANET HD
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="MINIKA COCUK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/minika-cocuk.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",MINIKA COCUK HD
+#EXTINF:-1 tvg-name="MINIKA COCUK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/minika-cocuk.png" tvg-country="TR" tvg-language="tur" group-title="ÇOCUK",MINIKA COCUK HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1 tvg-name="MINIKA GO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/minika-go.png" tvg-country="TR" tvg-language="tur" group-title="Türkisch",MINIKA GO HD
+#EXTINF:-1 tvg-name="MINIKA GO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/minika-go.png" tvg-country="TR" tvg-language="tur" group-title="ÇOCUK",MINIKA GO HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Rudaw TV",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
@@ -592,6 +592,8 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w75817657.m3u8
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2128000_sltur.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="GZT TV",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+# Zusätzliche öffentliche Stream-Kandidaten; Verfügbarkeit nicht live geprüft
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Kurdistan TV",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Zagros TV",Zagros TV
@@ -690,6 +692,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 group-title="Deutsch" tvg-name="Schlager Deluxe",Schlager Deluxe
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
+# ===== Weitere türkische, kurdische und deutsche Stream-Kandidaten =====
+# Hinweis: Streams nicht live getestet; gleiche Streams/alternative Namen können vorkommen.
 #EXTINF:-1 group-title="Türkisch" tvg-name="TRT Spor",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="TVNET",TVNET
@@ -708,6 +713,30 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 group-title="Deutsch" tvg-name="SR Fernsehen",SR Fernsehen
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+
+
+# Kurdisch: https://iptv-org.github.io/iptv/languages/kur.m3u
+# Tuerkisch: https://iptv-org.github.io/iptv/languages/tur.m3u
+# Deutsch: https://iptv-org.github.io/iptv/languages/deu.m3u
+
+# =========================================================
+# WEITERE KURDISCHE SENDER – ALLE SPRACHVARIANTEN UNTER „KURDISCH“
+# Die folgenden Adressen sind öffentliche M3U-Playlist-Quellen.
+# Sie sind keine einzelnen Senderstreams und müssen im IPTV-Player
+# als zusätzliche Playlist importiert werden.
+# Allgemeine kurdische Playlist:
+# https://iptv-org.github.io/iptv/languages/kur.m3u
+# Sorani / Zentralkurdisch:
+# https://iptv-org.github.io/iptv/languages/ckb.m3u
+# Kurmandschi / Nordkurdisch:
+# https://iptv-org.github.io/iptv/languages/kmr.m3u
+# Zazaki / Dimli:
+# https://iptv-org.github.io/iptv/languages/zza.m3u
+# Südkurdisch:
+# https://iptv-org.github.io/iptv/languages/sdh.m3u
+# =========================================================
+# TÜRKISCHE ÖFFENTLICHE PLAYLIST-QUELLE:
+# https://iptv-org.github.io/iptv/languages/tur.m3u
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Kurdsat HD",Kurdsat HD
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Kurdsat News HD",Kurdsat News HD
@@ -910,6 +939,9 @@ https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
 #EXTINF:-1 group-title="Deutsch" tvg-name="Kanal 12 Spremberg",Kanal 12 Spremberg
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+
+# ===== BEREINIGTE STREAM-KANDIDATEN 06.11.2026 =====
+# Oeffentliche Playlist-Quellen; nicht alle Streams sind auf dem Vu+ getestet.
 #EXTINF:-1 group-title="Türkisch" tvg-name="Show TV",Show TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 #EXTINF:-1 group-title="Türkisch" tvg-name="Star TV",Star TV
@@ -934,6 +966,14 @@ http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
 http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Med Muzik TV 2",Med Muzik TV 2
 http://54.36.110.140/live3/live3.m3u8
+
+# NÛÇE TV: Offizielle Live-Seite https://nucetv.net/live-tv
+# Der Player wird per iframe geladen; die Seite veroeffentlicht hier keine direkte M3U8-Adresse. Kein nicht verifizierter Link eingetragen.
+
+#
+# ===== Ergänzungen vom 08.11.2026 =====
+# Hinweis: Neue Kandidaten/Alternativ-URLs aus öffentlich auffindbaren Listen.
+# Nicht alle Streams konnten hier direkt im Receiver getestet werden.
 #EXTINF:-1 group-title="Kurdisch" tvg-name="VIN TV (Alternative)",VIN TV (Alternative)
 http://95.170.203.140:1213/hls/vinlive.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Kanal 4 Kurdish (Alternative)",Kanal 4 Kurdish (Alternative)
@@ -960,97 +1000,101 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://turkuvaz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 group-title="Deutsch" tvg-name="rbb Brandenburg",rbb Brandenburg
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Medya Haber - Alternative 2",Medya Haber - Alternative 2
+
+# ===== YEDEK LISTE - ALTERNATIVE STREAM-ADRESSEN =====
+# Neue Gruppen im Receiver: YEDEK LISTE - KURDISCH / TÜRKISCH / DEUTSCH
+# Hinweis: Öffentliche Listen-Kandidaten; nicht alle Streams sind live getestet.
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="Medya Haber - Alternative 2",Medya Haber - Alternative 2
 https://602ccc850c9bb.streamlock.net/Medya/smil:1280.smil/chunklist_w130320619_b2660000_sleng.m3u8
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Sterk TV - Alternative 2",Sterk TV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="Sterk TV - Alternative 2",Sterk TV - Alternative 2
 https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_w2100886807_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Kurdisch" tvg-name="JIN TV - Alternative 2",JIN TV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="JIN TV - Alternative 2",JIN TV - Alternative 2
 https://live.jintv.org:12443/medialive/jintv.m3u8
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Rudaw TV - Alternative 2",Rudaw TV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="Rudaw TV - Alternative 2",Rudaw TV - Alternative 2
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Kurdistan 24 - Alternative 2",Kurdistan 24 - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="Kurdistan 24 - Alternative 2",Kurdistan 24 - Alternative 2
 http://198.100.158.231:1935/kanal30/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Waar TV - Alternative 2",Waar TV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="Waar TV - Alternative 2",Waar TV - Alternative 2
 http://198.100.158.231:1935/kanal2/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Ronahi TV - Alternative 2",Ronahi TV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - KURDISCH" tvg-name="Ronahi TV - Alternative 2",Ronahi TV - Alternative 2
 http://198.100.158.231:1935/kanal16/_definst_/livestream/list.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Show TV - Alternative 2",Show TV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Show TV - Alternative 2",Show TV - Alternative 2
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="TRT 1 - Alternative 2",TRT 1 - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TRT 1 - Alternative 2",TRT 1 - Alternative 2
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Kanal D - Alternative 2",Kanal D - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Kanal D - Alternative 2",Kanal D - Alternative 2
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Star TV - Alternative 2",Star TV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Star TV - Alternative 2",Star TV - Alternative 2
 https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="TV8 - Alternative 2",TV8 - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TV8 - Alternative 2",TV8 - Alternative 2
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="360 TV - Alternative 2",360 TV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="360 TV - Alternative 2",360 TV - Alternative 2
 https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Bloomberg HT - Alternative 2",Bloomberg HT - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Bloomberg HT - Alternative 2",Bloomberg HT - Alternative 2
 https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Haber - Alternative 2",TRT Haber - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TRT Haber - Alternative 2",TRT Haber - Alternative 2
 https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Kanal 7 - Alternative 2",Kanal 7 - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Kanal 7 - Alternative 2",Kanal 7 - Alternative 2
 https://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="A2 TV - Alternative 2",A2 TV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="A2 TV - Alternative 2",A2 TV - Alternative 2
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Beyaz TV - Alternative 2",Beyaz TV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Beyaz TV - Alternative 2",Beyaz TV - Alternative 2
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Ülke TV - Alternative 2",Ülke TV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Ülke TV - Alternative 2",Ülke TV - Alternative 2
 https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="NTV - Alternative 2",NTV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="NTV - Alternative 2",NTV - Alternative 2
 https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="CNN Türk - Alternative 2",CNN Türk - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="CNN Türk - Alternative 2",CNN Türk - Alternative 2
 https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Habertürk - Alternative 2",Habertürk - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Habertürk - Alternative 2",Habertürk - Alternative 2
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="TGRT Haber - Alternative 2",TGRT Haber - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TGRT Haber - Alternative 2",TGRT Haber - Alternative 2
 https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Ekotürk - Alternative 2",Ekotürk - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Ekotürk - Alternative 2",Ekotürk - Alternative 2
 https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Haber Global - Alternative 2",Haber Global - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Haber Global - Alternative 2",Haber Global - Alternative 2
 https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Teve2 - Alternative 2",Teve2 - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Teve2 - Alternative 2",Teve2 - Alternative 2
 https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Avaz - Alternative 2",TRT Avaz - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TRT Avaz - Alternative 2",TRT Avaz - Alternative 2
 https://tv-trtavaz.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="TRT Kurdî - Alternative 2",TRT Kurdî - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TRT Kurdî - Alternative 2",TRT Kurdî - Alternative 2
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="TRT 2 - Alternative 2",TRT 2 - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TRT 2 - Alternative 2",TRT 2 - Alternative 2
 https://tv-trt2-ts.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="A Spor - Alternative 2",A Spor - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="A Spor - Alternative 2",A Spor - Alternative 2
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="TJK TV - Alternative 2",TJK TV - Alternative 2
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="TJK TV - Alternative 2",TJK TV - Alternative 2
 https://mn-nl.mncdn.com/blutv_tjktv/smil:tjktv_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Power Türk - Alternative",Power Türk - Alternative
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Power Türk - Alternative",Power Türk - Alternative
 https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Number One Türk - Alternative",Number One Türk - Alternative
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Number One Türk - Alternative",Number One Türk - Alternative
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Euro D - Alternative",Euro D - Alternative
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Euro D - Alternative",Euro D - Alternative
 https://mn-nl.mncdn.com/blutv_eurod/eurod_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Euro Star - Alternative",Euro Star - Alternative
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Euro Star - Alternative",Euro Star - Alternative
 https://xrklj56s.rocketcdn.com/eurostar.smil/chunklist.sltur.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Kral TV - Alternative",Kral TV - Alternative
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Kral TV - Alternative",Kral TV - Alternative
 http://mid5dg6m.rocketcdn.com/kraltv.smil/chunklist.sltur.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Kral Pop - Alternative",Kral Pop - Alternative
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Kral Pop - Alternative",Kral Pop - Alternative
 http://bqgsd19q.rocketcdn.com/kralpop.smil/chunklist.sltur.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="DMAX Türkiye",DMAX Türkiye
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="DMAX Türkiye",DMAX Türkiye
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Diyanet TV - Alternative",Diyanet TV - Alternative
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Diyanet TV - Alternative",Diyanet TV - Alternative
 https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Kanal B - Alternative",Kanal B - Alternative
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Kanal B - Alternative",Kanal B - Alternative
 https://mn-nl.mncdn.com/blutv_kanalb/smil:kanalb_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Vuslat TV",Vuslat TV
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Vuslat TV",Vuslat TV
 https://mn-nl.mncdn.com/blutv_vuslattv/smil:vuslattv_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Er TV",Er TV
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Er TV",Er TV
 https://mn-nl.mncdn.com/blutv_ertv/smil:ertv_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch" tvg-name="Number One HD",Number One HD
+#EXTINF:-1 group-title="YEDEK LISTE - TÜRKISCH" tvg-name="Number One HD",Number One HD
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 group-title="Deutsch" tvg-name="ZDF - Alternative High",ZDF - Alternative High
+#EXTINF:-1 group-title="YEDEK LISTE - DEUTSCH" tvg-name="ZDF - Alternative High",ZDF - Alternative High
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 group-title="Deutsch" tvg-name="ZDFneo - Alternative High",ZDFneo - Alternative High
+#EXTINF:-1 group-title="YEDEK LISTE - DEUTSCH" tvg-name="ZDFneo - Alternative High",ZDFneo - Alternative High
 http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 group-title="Deutsch" tvg-name="ZDFinfo - Alternative High",ZDFinfo - Alternative High
+#EXTINF:-1 group-title="YEDEK LISTE - DEUTSCH" tvg-name="ZDFinfo - Alternative High",ZDFinfo - Alternative High
 http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="EZIDXAN Music",EZIDXAN Music
 http://217.79.179.96/EZIDXANTVMUSIK/1080/HD/tracks-v1a1/mono.m3u8
