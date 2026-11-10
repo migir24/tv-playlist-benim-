@@ -977,3 +977,9 @@ https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 https://edge1.taksimbilisim.com/kocaelitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/nt1zogtq.png" group-title="ULUSAL",ÇİZGİ48 TV
 https://ip44.radyotelekomtv.com:3810/live/cizgitvlive.m3u8
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="EkinTurk TV",EkinTurk TV
+http://185.234.111.229:8000/play/a025
+
+#EXTINF:-1 group-title="Türkisch" tvg-name="EkinTurk TV (RTMP)",EkinTurk TV (RTMP)
+rtmp://188.138.75.223:1935/ekintv/ekintv
