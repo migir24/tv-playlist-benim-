@@ -305,8 +305,6 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1 group-title="Türkisch",ANADOLUNET TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1 group-title="Türkisch",ARAS TV
-https://2.rtmp.org/tv217/yayin.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Türkisch",BODRUM KENT TV
 https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Türkisch",BRTV
@@ -349,10 +347,6 @@ https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Türkisch",KANAL 32
 https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
-#EXTINF:-1 group-title="Türkisch",TOKAT TV
-https://cdn-tokattv.yayin.com.tr/tokattv/tokattv/chunklist.m3u8
-#EXTINF:-1 group-title="Türkisch",BELEMTÜRK
-https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="SiNEMA",TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" tvg-id="" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" group-title="MUZIK",NR1 FASHION ONE
@@ -543,8 +537,6 @@ https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 #EXTINF:-1 group-title="Deutsch" tvg-name="Deluxe Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="Deutsch" tvg-name="Deluxe Dance",Deluxe Dance
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="TRT Spor",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Türkisch" tvg-name="A Haber",A Haber
@@ -671,8 +663,6 @@ https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Dijlah TV",Dijlah TV
 https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1 group-title="Kurdisch" tvg-name="Eman TV",Eman TV
-https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Farmoda TV",Farmoda TV
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1 group-title="Kurdisch" tvg-name="Ishtar TV",Ishtar TV
@@ -867,8 +857,6 @@ https://canli.gopsentv.com:3604/stream/play.m3u8
 https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxXdfNv/In-Shot-20251110-120603799.png" group-title="ULUSAL",KANAL SİM
 https://edge.kuzeykibrissmart.tv/simtv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvr7sPnF/In-Shot-20251020-120311849.png" group-title="ULUSAL",KARDEŞ TV
-https://yayin30.haber100.com/live/kardestv/chunklist_w403767422.m3u8
 #EXTINF:-1 tvg-logo="https://kibristv.com/foto/ktv.png" group-title="ULUSAL",KIBRIS TV
 https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" group-title="ULUSAL",LUYS TV
@@ -905,8 +893,6 @@ https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7f48a7b_o
 https://host.onlineradyotv.net:8081/televolemagazin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26BBkKFS/Zarok-TV.webp" group-title="ÇOCUK",ZAROK TV 2
 https://hlspackager.akamaized.net/live/DB/ZAROK_TV/HLS/ZAROK_TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvwkzJ6J/16466-removebg-preview.png" group-title="SPOR",NT SPOR
-https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/chunklist_w1438643696.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/20826/logo_256_1699966834.png" group-title="SPOR",TJK 1
 https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/20826/logo_256_1699966834.png" group-title="SPOR",TJK 2
@@ -977,9 +963,53 @@ https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 https://edge1.taksimbilisim.com/kocaelitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/nt1zogtq.png" group-title="ULUSAL",ÇİZGİ48 TV
 https://ip44.radyotelekomtv.com:3810/live/cizgitvlive.m3u8
-
 #EXTINF:-1 group-title="Türkisch" tvg-name="EkinTurk TV",EkinTurk TV
 http://185.234.111.229:8000/play/a025
-
 #EXTINF:-1 group-title="Türkisch" tvg-name="EkinTurk TV (RTMP)",EkinTurk TV (RTMP)
 rtmp://188.138.75.223:1935/ekintv/ekintv
+#EXTINF:-1 group-title="YEDEK TÜRK 1",TRT 1
+http://176.65.153.35:6001/play/a01z/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",ATV HD
+http://176.65.153.35:6005/play/a01s/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?=&sid=8we9nvdx0hnj&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:-1 group-title="YEDEK TÜRK 1",NOW
+http://176.65.153.35:6002/play/a016/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",A2
+https://sharelink.anonimltc.workers.dev/g/7qoi7o.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",SHOW MAX HD
+http://176.65.153.66:6002/play/a00y/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",TV2 HD
+http://176.65.153.66:6002/play/a011/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",TV8 5 HD
+http://176.65.153.66:6003/play/a00x/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",TV8 HD
+http://176.65.153.66:6003/play/a00w/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",STAR TV
+http://176.65.153.66:6001/play/a01u/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",SHOW MAX
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",ÜLKE TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",DMAX
+http://176.65.153.49:6004/play/a004/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",TLC TC UYDU
+http://176.65.153.49:6004/play/a003/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",BEYAZ TV
+http://176.65.153.49:6004/play/a005/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",FLASH TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",TGRT BELGESEL HD
+http://176.65.153.35:6005/play/a01l/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",CNN TÜRK HD
+http://176.65.153.12:6004/play/a01r/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",AHABER
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",GZT
+https://gzttv-live.lg.mncdn.com/gzttv-live/gzttv/chunklist.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",LALEGÜL TV
+http://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",D ANADOLU
+http://176.65.153.12:6004/play/a01w/index.m3u8
+#EXTINF:-1 group-title="YEDEK TÜRK 1",CiNE1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
